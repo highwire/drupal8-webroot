@@ -1,0 +1,93 @@
+<map:toc-order xmlns:map="http://schema.highwire.org/Journal/Index/Manifest"
+               xml:base="http://sass.highwire.org/ajpcell/310/11.atom?with-descendants=1&amp;with-descendants-lt=300&amp;with-variant=yes&amp;variant-role=http://schema.highwire.org/variant/manifest"
+               src="manifest">
+    <map:group xml:id="Themes">
+        <map:grouping-key>Themes</map:grouping-key>
+        <map:display-name>Themes</map:display-name>
+        <map:display-name location="toc">Themes</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/ajpcell/310/11/C955.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C955" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Review">
+        <map:grouping-key>Review</map:grouping-key>
+        <map:display-name>Review</map:display-name>
+        <map:display-name location="toc">Review</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/ajpcell/310/11/C968.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C968" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="EditorialFocus">
+        <map:grouping-key>Editorial Focus</map:grouping-key>
+        <map:display-name>Editorial Focus</map:display-name>
+        <map:display-name location="toc">Editorial Focus</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/ajpcell/310/11/C841.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C841"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="CALLFORPAPERSCellSignalingProteinsPathwaysandMechanisms">
+        <map:grouping-key>CALL FOR PAPERS | Cell Signaling: Proteins, Pathways and
+            Mechanisms</map:grouping-key>
+        <map:display-name>CALL FOR PAPERS | Cell Signaling: Proteins, Pathways and
+            Mechanisms</map:display-name>
+        <map:display-name location="toc">CALL FOR PAPERS | Cell Signaling: Proteins, Pathways and
+            Mechanisms</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/ajpcell/310/11/C857.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C857" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C874.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C874" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C885.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C885" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="CALLFORPAPERSGasotransmitters">
+        <map:grouping-key>CALL FOR PAPERS | Gasotransmitters</map:grouping-key>
+        <map:display-name>CALL FOR PAPERS | Gasotransmitters</map:display-name>
+        <map:display-name location="toc">CALL FOR PAPERS | Gasotransmitters</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/ajpcell/310/11/C894.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C894" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="CALLFORPAPERSRegulationofCellSignalingPathways">
+        <map:grouping-key>CALL FOR PAPERS | Regulation of Cell Signaling Pathways</map:grouping-key>
+        <map:display-name>CALL FOR PAPERS | Regulation of Cell Signaling Pathways</map:display-name>
+        <map:display-name location="toc">CALL FOR PAPERS | Regulation of Cell Signaling
+            Pathways</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/ajpcell/310/11/C844.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C844" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C983.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C983" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C993.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C993" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C1001.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C1001" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Articles">
+        <map:grouping-key>Articles</map:grouping-key>
+        <map:display-name>Articles</map:display-name>
+        <map:display-name location="toc">Articles</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/ajpcell/310/11/C903.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C903" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C911.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C911" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C921.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C921" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C931.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C931" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C942.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C942" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C1010.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C1010" has-gca="yes"/>
+            <map:citation-ref sass-href="/ajpcell/310/11/C1024.atom" base="http://sass.highwire.org"
+                              legacy-resource-id="ajpcell;310/11/C1024" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+</map:toc-order>

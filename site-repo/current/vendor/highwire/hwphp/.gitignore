@@ -1,0 +1,7 @@
+/vendor/
+/web/
+.idea/
+phpunit.report*
+composer.lock
+.DS_Store
+coverage.clover

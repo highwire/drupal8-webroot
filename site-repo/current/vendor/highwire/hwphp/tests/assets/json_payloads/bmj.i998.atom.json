@@ -1,0 +1,269 @@
+{
+  "apath": "/bmj/352/bmj.i998.atom",
+  "atype": "article",
+  "atype-long": "journal-article",
+  "atom-id": "tag:bmj@highwire.org,2016-03-10:bmj.i998",
+  "pisa": "bmj;352/mar10_7/i998",
+  "pisa-master": "bmj;bmj.i998",
+  "featured": "",
+  "jcode": "bmj",
+  "journal-meta": [
+    {
+      "journal-ta": "BMJ",
+      "journal-title": "BMJ",
+      "abbrev-journal-title-publisher": "BMJ",
+      "issn-epub": "1756-1833",
+      "publisher-name": "British Medical Journal Publishing Group"
+    }
+  ],
+  "title": "Type 1 diabetes in adults: supporting self management",
+  "slug": "bmj.i998",
+  "variant-data": [
+    {
+      "path": "pending:yes",
+      "variant": "extract",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "path": "/bmj/352/bmj.i998.full.pdf",
+      "variant": "full-text",
+      "type": "application/pdf"
+    },
+    {
+      "path": "/bmj/352/bmj.i998.full.html",
+      "variant": "full-text",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "path": "/bmj/352/bmj.i998.source.xml",
+      "variant": "source",
+      "type": "application/xml"
+    },
+    {
+      "path": "/bmj/352/bmj.i998.ref-links.xml",
+      "variant": "ref-links",
+      "type": "application/xml"
+    },
+    {
+      "path": "/bmj/352/bmj.i998.ref-stubs.xml",
+      "variant": "ref-stubs",
+      "type": "application/xml"
+    },
+    {
+      "path": "/bmj/352/bmj.i998.extract.jpg",
+      "variant": "extract",
+      "type": "image/jpeg"
+    }
+  ],
+  "custom-meta": [
+    {
+      "name": "special-property",
+      "value": "cccme"
+    },
+    {
+      "name": "content-era",
+      "value": "e11"
+    },
+    {
+      "name": "r_released",
+      "value": "2016-03-10T04:51:34-08:00"
+    },
+    {
+      "name": "a_published",
+      "value": "2016-01-01T00:00:00Z"
+    }
+  ],
+  "related": [
+    {
+      "apath": "/bmj/352/8048/Education.atom",
+      "type": "related",
+      "via": "/bmj/352/bmj.i998/rel-section/12fef60ed6bf0ba3.atom",
+      "title": "Education"
+    }
+  ],
+  "parent": "/bmj/352.atom",
+  "volume": "352",
+  "early-release": false,
+  "date-epub": {
+    "start": "2016-03-10T04:51:34-08:00"
+  },
+  "date-epub-version": {
+    "start": "2016-03-10T04:51:34-08:00"
+  },
+  "date-epub-original": {
+    "start": "2016-03-10"
+  },
+  "date-atom-published": {
+    "start": "2016-01-01T00:00:00Z"
+  },
+  "date-released": {
+    "start": "2016-03-10T04:51:34-08:00"
+  },
+  "date-history": [],
+  "elocation-id": "i998",
+  "doi": "10.1136/bmj.i998",
+  "era": "e11",
+  "contributors-xml": [
+    "<atom:author xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\"><atom:name>Monika Reddy</atom:name><nlm:aff><nlm:label>1</nlm:label>Department of Diabetes, Endocrinology and Metabolism, Imperial College London, St Mary’s Hospital Campus, London W2 1PG, UK</nlm:aff><nlm:aff><nlm:label>2</nlm:label>Diabetes and Endocrinology, Imperial Healthcare NHS Trust, London</nlm:aff><nlm:name hwp:sortable=\"Reddy Monika\"><nlm:surname>Reddy</nlm:surname><nlm:given-names>Monika</nlm:given-names></nlm:name><nlm:role>specialist registrar, diabetes and endocrinology</nlm:role></atom:author>",
+    "<atom:contributor xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\"><atom:name>Sian Rilstone</atom:name><nlm:aff><nlm:label>2</nlm:label>Diabetes and Endocrinology, Imperial Healthcare NHS Trust, London</nlm:aff><nlm:name hwp:sortable=\"Rilstone Sian\"><nlm:surname>Rilstone</nlm:surname><nlm:given-names>Sian</nlm:given-names></nlm:name><nlm:role>diabetes specialist dietitian</nlm:role></atom:contributor>",
+    "<atom:contributor xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\"><atom:name>Philippa Cooper</atom:name><nlm:aff><nlm:label>3</nlm:label>London</nlm:aff><nlm:name hwp:sortable=\"Cooper Philippa\"><nlm:surname>Cooper</nlm:surname><nlm:given-names>Philippa</nlm:given-names></nlm:name><nlm:role>has type 1 diabetes</nlm:role></atom:contributor>",
+    "<atom:contributor xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\" nlm:corresp=\"yes\"><atom:name>Nick S Oliver</atom:name><nlm:aff><nlm:label>1</nlm:label>Department of Diabetes, Endocrinology and Metabolism, Imperial College London, St Mary’s Hospital Campus, London W2 1PG, UK</nlm:aff><nlm:aff><nlm:label>2</nlm:label>Diabetes and Endocrinology, Imperial Healthcare NHS Trust, London</nlm:aff><nlm:name hwp:sortable=\"Oliver Nick S\"><nlm:surname>Oliver</nlm:surname><nlm:given-names>Nick S</nlm:given-names></nlm:name><nlm:role>consultant diabetologist</nlm:role></atom:contributor>"
+  ],
+  "article-authors-xml": [
+    "<atom:author xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\"><atom:name>Monika Reddy</atom:name><nlm:aff><nlm:label>1</nlm:label>Department of Diabetes, Endocrinology and Metabolism, Imperial College London, St Mary’s Hospital Campus, London W2 1PG, UK</nlm:aff><nlm:aff><nlm:label>2</nlm:label>Diabetes and Endocrinology, Imperial Healthcare NHS Trust, London</nlm:aff><nlm:name hwp:sortable=\"Reddy Monika\"><nlm:surname>Reddy</nlm:surname><nlm:given-names>Monika</nlm:given-names></nlm:name><nlm:role>specialist registrar, diabetes and endocrinology</nlm:role></atom:author>",
+    "<atom:contributor xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\"><atom:name>Sian Rilstone</atom:name><nlm:aff><nlm:label>2</nlm:label>Diabetes and Endocrinology, Imperial Healthcare NHS Trust, London</nlm:aff><nlm:name hwp:sortable=\"Rilstone Sian\"><nlm:surname>Rilstone</nlm:surname><nlm:given-names>Sian</nlm:given-names></nlm:name><nlm:role>diabetes specialist dietitian</nlm:role></atom:contributor>",
+    "<atom:contributor xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\"><atom:name>Philippa Cooper</atom:name><nlm:aff><nlm:label>3</nlm:label>London</nlm:aff><nlm:name hwp:sortable=\"Cooper Philippa\"><nlm:surname>Cooper</nlm:surname><nlm:given-names>Philippa</nlm:given-names></nlm:name><nlm:role>has type 1 diabetes</nlm:role></atom:contributor>",
+    "<atom:contributor xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\" nlm:corresp=\"yes\"><atom:name>Nick S Oliver</atom:name><nlm:aff><nlm:label>1</nlm:label>Department of Diabetes, Endocrinology and Metabolism, Imperial College London, St Mary’s Hospital Campus, London W2 1PG, UK</nlm:aff><nlm:aff><nlm:label>2</nlm:label>Diabetes and Endocrinology, Imperial Healthcare NHS Trust, London</nlm:aff><nlm:name hwp:sortable=\"Oliver Nick S\"><nlm:surname>Oliver</nlm:surname><nlm:given-names>Nick S</nlm:given-names></nlm:name><nlm:role>consultant diabetologist</nlm:role></atom:contributor>"
+  ],
+  "article-type": "review-article",
+  "article-pmid": "26965473",
+  "article-open-access": false,
+  "article-permissions": "<nlm:permissions xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:l=\"http://schema.highwire.org/Linking\"><nlm:copyright-statement hwp:id=\"copyright-statement-1\">Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to <nlm:ext-link l:rel=\"related\" l:ref-type=\"uri\" l:ref=\"http://group.bmj.com/group/rights-licensing/permissions\" ext-link-type=\"uri\" xlink:href=\"http://group.bmj.com/group/rights-licensing/permissions\" hwp:id=\"ext-link-1\">http://group.bmj.com/group/rights-licensing/permissions</nlm:ext-link></nlm:copyright-statement><nlm:copyright-year>2016</nlm:copyright-year><nlm:copyright-holder>BMJ</nlm:copyright-holder></nlm:permissions>",
+  "article-categories": [
+    {
+      "name": "Clinical Review",
+      "type": [
+        "heading",
+        "display-group"
+      ],
+      "content-type": "original"
+    },
+    {
+      "name": "Clinical Review",
+      "type": [
+        "heading",
+        "display-group"
+      ],
+      "content-type": "display-singular"
+    },
+    {
+      "name": "Clinical Reviews",
+      "type": [
+        "heading",
+        "display-group"
+      ],
+      "content-type": "display-plural"
+    },
+    {
+      "name": "CME",
+      "type": [
+        "hwp-journal-coll"
+      ]
+    }
+  ],
+  "article-keywords": [],
+  "article-version": false,
+  "article-version-current": true,
+  "collections": [
+    {
+      "path": "/collection/bmj/special_collections_p/cleveland_clinic_cme.atom",
+      "id": 44708,
+      "relevance": 0.7998999953269958,
+      "assigned": "2016-03-23T07:00:58Z"
+    },
+    {
+      "path": "/collection/bmj/clinical_p/endocrinology_p/metabolic_disorders.atom",
+      "id": 42230,
+      "relevance": 0.6888960003852844,
+      "assigned": "2016-03-23T07:28:26Z"
+    },
+    {
+      "path": "/collection/bmj/clinical_p/immunology_including_allergy.atom",
+      "id": 42303,
+      "relevance": 0.34392398595809937,
+      "assigned": "2016-03-23T07:28:26Z"
+    },
+    {
+      "path": "/collection/bmj/non-clinical_p/sociology.atom",
+      "id": 42910,
+      "relevance": 0.31535398960113525,
+      "assigned": "2016-03-23T07:28:26Z"
+    },
+    {
+      "path": "/collection/bmj/clinical_p/obstetrics_and_gynaecology_p/pregnancy.atom",
+      "id": 42387,
+      "relevance": 0.23305299878120422,
+      "assigned": "2016-03-23T07:28:26Z"
+    },
+    {
+      "path": "/collection/bmj/clinical_p/obstetrics_and_gynaecology_p/reproductive_medicine.atom",
+      "id": 42388,
+      "relevance": 0.23305299878120422,
+      "assigned": "2016-03-23T07:28:26Z"
+    },
+    {
+      "path": "/collection/bmj/non-clinical_p/public_health_p/health_education.atom",
+      "id": 42867,
+      "relevance": 0.23274999856948853,
+      "assigned": "2016-03-23T07:28:26Z"
+    },
+    {
+      "path": "/collection/bmj/non-clinical_p/public_health_p/health_promotion.atom",
+      "id": 42887,
+      "relevance": 0.23274999856948853,
+      "assigned": "2016-03-23T07:28:26Z"
+    },
+    {
+      "path": "/collection/bmj/non-clinical_p/health_informatics_p/internet.atom",
+      "id": 42726,
+      "relevance": 0.23274999856948853,
+      "assigned": "2016-03-23T07:28:26Z"
+    }
+  ],
+  "atom-collections": [
+    {
+      "scheme": "http://atom-collections.highwire.org/highwire/content#publisher",
+      "term": "bma",
+      "label": "British Medical Association"
+    },
+    {
+      "scheme": "http://atom-collections.highwire.org/highwire/content#publisher",
+      "term": "bma",
+      "label": "British Medical Association"
+    }
+  ],
+  "book-part-categories": [],
+  "resource-type-long": "",
+  "date-published": "2016-01-01T00:00:00Z",
+  "date-updated": "2016-03-10T04:51:34-08:00",
+  "variants": [
+    "extract",
+    "full-text"
+  ],
+  "epubdate": {
+    "start": "2016-03-10"
+  },
+  "ppubdate": {
+    "start": "2016-03-10"
+  },
+  "fpubdate": {
+    "start": "2016-03-10"
+  },
+  "cpath-alias": [
+    "/content/352/bmj.i998"
+  ],
+  "article-authors": [
+    "Monika Reddy",
+    "Sian Rilstone",
+    "Philippa Cooper",
+    "Nick S Oliver"
+  ],
+  "article-subhead-singular": [
+    "Clinical Review"
+  ],
+  "article-subhead-plural": [
+    "Clinical Reviews"
+  ],
+  "article-full-pdf": "/bmj/352/bmj.i998.full.pdf",
+  "article-collections": [
+    44708,
+    42230,
+    42303,
+    42910,
+    42387,
+    42388,
+    42867,
+    42887,
+    42726
+  ]
+}

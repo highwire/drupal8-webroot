@@ -1,0 +1,107 @@
+<map:toc-order xmlns:map="http://schema.highwire.org/Journal/Index/Manifest" xml:base="http://sass.highwire.org/bmj/352/8048.atom?with-descendants=1&amp;with-descendants-lt=300&amp;with-variant=yes&amp;variant-role=http://schema.highwire.org/variant/manifest" src="manifest">
+    <map:group xml:id="ThisWeek">
+        <map:grouping-key>This Week</map:grouping-key>
+        <map:display-name>This Week</map:display-name>
+        <map:display-name location="toc">This Week</map:display-name>
+        <map:resource rel="section-pdf" sass-href="/bmj/352/8048/This_Week.full.pdf" base="http://sass.highwire.org" mime-type="application/pdf"/>
+        <map:toc-blurb location="section-top">
+            <span xmlns="http://www.w3.org/1999/xhtml" class="section-pdfs bmj-custom-section-pdf">
+                <span class="cit-sep cit-sep-before-section-pdf-link">This week's This Week</span>
+                <span class="section-pdf-link">
+                    <a class="section-pdf" rel="section-pdf" href="/bmj/352/8048/This_Week.full.pdf">[Section PDF]</a>
+                </span>
+            </span>
+        </map:toc-blurb>
+        <map:citations>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1427.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1415.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1346.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1374.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1420.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1398.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1348.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i910.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1121.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1324.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1336.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1317.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1328.atom" base="http://sass.highwire.org" map:external="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="ResearchUpdate">
+        <map:grouping-key>Research Update</map:grouping-key>
+        <map:display-name>Research Update</map:display-name>
+        <map:display-name location="toc">Research Update</map:display-name>
+        <map:resource rel="section-pdf" sass-href="/bmj/352/8048/Research_Update.full.pdf" base="http://sass.highwire.org" mime-type="application/pdf"/>
+        <map:toc-blurb location="section-top">
+            <span xmlns="http://www.w3.org/1999/xhtml" class="section-pdfs bmj-custom-section-pdf">
+                <span class="cit-sep cit-sep-before-section-pdf-link">This week's Research Update</span>
+                <span class="section-pdf-link">
+                    <a class="section-pdf" rel="section-pdf" href="/bmj/352/8048/Research_Update.full.pdf">[Section PDF]</a>
+                </span>
+            </span>
+        </map:toc-blurb>
+        <map:citations>
+            <map:citation-ref sass-href="/bmj/352/bmj.i974.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1143.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i582.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1224.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i843.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1114.atom" base="http://sass.highwire.org" map:external="yes"/>
+        </map:citations></map:group><map:group xml:id="Comment">
+    <map:grouping-key>Comment</map:grouping-key>
+    <map:display-name>Comment</map:display-name>
+    <map:display-name location="toc">Comment</map:display-name>
+    <map:resource rel="section-pdf" sass-href="/bmj/352/8048/Comment.full.pdf" base="http://sass.highwire.org" mime-type="application/pdf"/>
+    <map:toc-blurb location="section-top">
+        <span xmlns="http://www.w3.org/1999/xhtml" class="section-pdfs bmj-custom-section-pdf">
+            <span class="cit-sep cit-sep-before-section-pdf-link">This week's Comment</span>
+            <span class="section-pdf-link">
+                <a class="section-pdf" rel="section-pdf" href="/bmj/352/8048/Comment.full.pdf">[Section PDF]</a>
+            </span>
+        </span>
+    </map:toc-blurb>
+    <map:citations>
+        <map:citation-ref sass-href="/bmj/352/bmj.i1267.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i1084.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i1365.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i1041.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i731.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i732.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i515.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i514.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i733.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i748.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i751.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/351/bmj.h6953.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i1334.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i1330.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i1333.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i1331.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i1335.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/349/bmj.g6880.atom" base="http://sass.highwire.org" map:external="yes"/>
+        <map:citation-ref sass-href="/bmj/352/bmj.i945.atom" base="http://sass.highwire.org" map:external="yes"/>
+    </map:citations>
+</map:group>
+    <map:group xml:id="Education">
+        <map:grouping-key>Education</map:grouping-key>
+        <map:display-name>Education</map:display-name>
+        <map:display-name location="toc">Education</map:display-name>
+        <map:resource rel="section-pdf" sass-href="/bmj/352/8048/Education.full.pdf" base="http://sass.highwire.org" mime-type="application/pdf"/>
+        <map:toc-blurb location="section-top">
+            <span xmlns="http://www.w3.org/1999/xhtml" class="section-pdfs bmj-custom-section-pdf">
+                <span class="cit-sep cit-sep-before-section-pdf-link">This week's Education</span>
+                <span class="section-pdf-link">
+                    <a class="section-pdf" rel="section-pdf" href="/bmj/352/8048/Education.full.pdf">[Section PDF]</a>
+                </span>
+            </span>
+        </map:toc-blurb>
+        <map:citations>
+            <map:citation-ref sass-href="/bmj/352/bmj.i998.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i844.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i860.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i201.atom" base="http://sass.highwire.org" map:external="yes"/>
+            <map:citation-ref sass-href="/bmj/352/bmj.i1281.atom" base="http://sass.highwire.org" map:external="yes"/>
+        </map:citations>
+    </map:group>
+</map:toc-order>

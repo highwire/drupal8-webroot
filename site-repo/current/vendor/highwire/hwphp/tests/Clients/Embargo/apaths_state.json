@@ -1,0 +1,29 @@
+{
+    "error": false,
+    "results": [
+        {
+            "apath": "/sgrworks/book/978-0-8261-0964-4/part/part02/chapter/ch12.atom",
+            "corpus": "sgrworks",
+            "state": "released",
+            "updated": "1518619018"
+        },
+        {
+            "apath": "/sgrworks/book/978-0-8261-0964-4/part/part02/chapter/ch13.atom",
+            "corpus": "sgrworks",
+            "state": "released",
+            "updated": "1518619018"
+        },
+        {
+            "apath": "/sgrworks/book/978-0-8261-0964-4/part/part02/chapter/ch14.atom",
+            "corpus": "sgrworks",
+            "state": "released",
+            "updated": "1518619018"
+        },
+        {
+            "apath": "/sgrworks/book/978-0-8261-0964-4/part/part03.atom",
+            "corpus": "sgrworks",
+            "state": "released",
+            "updated": "1518619018"
+        }
+    ]
+}

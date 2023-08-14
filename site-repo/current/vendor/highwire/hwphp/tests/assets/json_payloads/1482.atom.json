@@ -1,0 +1,184 @@
+{
+  "apath": "/sci/353/6307/1482.atom",
+  "atype": "article",
+  "atype-long": "journal-article",
+  "atom-id": "tag:sci@highwire.org,2016-09-28:science.353.6307.1482",
+  "pisa": "sci;353/6307/1482",
+  "pisa-master": "sci;353/6307/1482",
+  "featured": "",
+  "jcode": "sci",
+  "journal-meta": [
+    {
+      "journal-ta": "Science",
+      "journal-title": "Science",
+      "abbrev-journal-title-publisher": "Science",
+      "abbrev-journal-title-pubmed": "Science",
+      "issn-ppub": "0036-8075",
+      "issn-epub": "1095-9203",
+      "publisher-name": "American Association for the Advancement of Science"
+    }
+  ],
+  "title": "Rosetta ends 2-year comet mission with final descent",
+  "slug": "1482",
+  "variant-data": [
+    {
+      "path": "/sci/353/6307/1482.full.pdf",
+      "variant": "full-text",
+      "type": "application/pdf"
+    },
+    {
+      "path": "/sci/353/6307/1482.summary.html",
+      "variant": "summary",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "path": "/sci/353/6307/1482.full.html",
+      "variant": "full-text",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "path": "/sci/353/6307/1482.precis.html",
+      "variant": "precis",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "path": "/sci/353/6307/1482.source.xml",
+      "variant": "source",
+      "type": "application/xml"
+    },
+    {
+      "path": "/sci/353/6307/1482.extract.jpg",
+      "variant": "extract",
+      "type": "image/jpeg"
+    }
+  ],
+  "children": [
+    "/sci/353/6307/1482/F1.atom"
+  ],
+  "related": [],
+  "parent": "/sci/353/6307.atom",
+  "volume": "353",
+  "issue": "6307",
+  "early-release": false,
+  "date-epub": {
+    "start": "2016-09-29T10:41:36-07:00"
+  },
+  "date-epub-version": {
+    "start": "2016-09-29T10:41:36-07:00"
+  },
+  "date-ppub": {
+    "start": "2016-09-30"
+  },
+  "date-atom-published": {
+    "start": "2016-09-28T11:39:23-07:00"
+  },
+  "date-released": {
+    "start": "2016-09-29T10:41:36-07:00"
+  },
+  "date-history": [],
+  "fpage": "1482",
+  "lpage": "1483",
+  "doi": "10.1126/science.353.6307.1482",
+  "contributors-xml": [
+    "<atom:author xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\"><atom:name>Daniel Clery</atom:name><nlm:name name-style=\"western\" hwp:sortable=\"Clery Daniel\"><nlm:surname>Clery</nlm:surname><nlm:given-names>Daniel</nlm:given-names></nlm:name></atom:author>"
+  ],
+  "article-authors-xml": [
+    "<atom:author xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\" nlm:contrib-type=\"author\"><atom:name>Daniel Clery</atom:name><nlm:name name-style=\"western\" hwp:sortable=\"Clery Daniel\"><nlm:surname>Clery</nlm:surname><nlm:given-names>Daniel</nlm:given-names></nlm:name></atom:author>"
+  ],
+  "article-type": "news",
+  "article-pmid": "27708082",
+  "article-open-access": false,
+  "article-permissions": "<nlm:permissions xmlns:nlm=\"http://schema.highwire.org/NLM/Journal\" xmlns:hwp=\"http://schema.highwire.org/Journal\"><nlm:copyright-statement hwp:id=\"copyright-statement-1\">Copyright © 2016, American Association for the Advancement of Science</nlm:copyright-statement><nlm:copyright-year>2016</nlm:copyright-year><nlm:copyright-holder>American Association for the Advancement of Science</nlm:copyright-holder></nlm:permissions>",
+  "article-categories": [
+    {
+      "name": "In Depth",
+      "type": [
+        "article-type"
+      ]
+    },
+    {
+      "name": "In Depth",
+      "type": [
+        "heading"
+      ]
+    },
+    {
+      "name": "n-depth",
+      "type": [
+        "legacy-article-type"
+      ]
+    },
+    {
+      "name": "ASTRONOMY",
+      "type": [
+        "field"
+      ]
+    },
+    {
+      "name": "Planetary Science",
+      "type": [
+        "overline"
+      ]
+    },
+    {
+      "name": "Astronomy",
+      "type": [
+        "hwp-journal-coll"
+      ]
+    }
+  ],
+  "article-keywords": [],
+  "article-version": false,
+  "article-version-current": true,
+  "collections": [
+    {
+      "path": "/collection/sci/physical-sciences/astronomy.atom",
+      "id": 1520,
+      "relevance": 0.0,
+      "assigned": "2016-09-29T10:41:36Z"
+    }
+  ],
+  "atom-collections": [
+    {
+      "scheme": "http://atom-collections.highwire.org/highwire/content#publisher",
+      "term": "aaas",
+      "label": "American Association for the Advancement of Science"
+    },
+    {
+      "scheme": "http://atom-collections.highwire.org/highwire/content#publisher",
+      "term": "aaas",
+      "label": "American Association for the Advancement of Science"
+    }
+  ],
+  "book-part-categories": [],
+  "resource-type-long": "",
+  "date-published": "2016-09-28T11:39:23-07:00",
+  "date-updated": "2016-11-18T12:22:28-08:00",
+  "variants": [
+    "summary",
+    "full-text",
+    "precis"
+  ],
+  "epubdate": {
+    "start": "2016-09-29"
+  },
+  "ppubdate": {
+    "start": "2016-09-30"
+  },
+  "fpubdate": {
+    "start": "2016-09-29"
+  },
+  "cpath-alias": [
+    "/content/353/6307/1482"
+  ],
+  "article-authors": [
+    "Daniel Clery"
+  ],
+  "article-subhead-plain": [
+    "In Depth"
+  ],
+  "article-full-pdf": "/sci/353/6307/1482.full.pdf",
+  "article-collections": [
+    1520
+  ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taxonomies xmlns="http://schema.highwire.org/Taxonomy" xmlns:acs="http://schema.highwire.org/AtomCollection" xmlns:n="http://schema.highwire.org/Taxonomy/Node" baseUri="http://taxonomy-svc-dev.highwire.org/tree/springer.xml">
+    <taxonomy description="springer content subjects taxonomy" id="1" name="Subjects" publisher="springer" collection="content" scheme="subject"/>
+    <taxonomy description="springer content keyword taxonomy" id="2" name="Keywords" publisher="springer" collection="content" scheme="keyword"/>
+    <taxonomy description="springer georef category taxonomy" id="3" name="GeoRef" publisher="springer" collection="georef" scheme="category"/>
+</taxonomies>

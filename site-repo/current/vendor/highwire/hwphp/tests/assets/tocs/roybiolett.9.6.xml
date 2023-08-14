@@ -1,0 +1,147 @@
+<map:toc-order xmlns:map="http://schema.highwire.org/Journal/Index/Manifest" xml:base="http://sass.highwire.org/roybiolett/9/6.atom?with-descendants=1&amp;with-variant=yes&amp;variant-role=http://schema.highwire.org/variant/manifest" src="manifest">
+    <map:group xml:id="Animalbehaviour">
+        <map:grouping-key>Animal behaviour</map:grouping-key>
+        <map:display-name>Animal behaviour</map:display-name>
+        <map:display-name location="toc">Animal behaviour</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130902.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130902" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130892.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130892" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130811.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130811" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130762.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130762" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130633.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130633" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130842.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130842" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130746.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130746" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130621.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130621" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130852.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130852" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130658.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130658" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130667.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130667" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130653.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130653" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130644.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130644" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130501.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130501" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130745.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130745" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130757.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130757" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130712.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130712" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130578.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130578" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130528.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130528" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Communityecology">
+        <map:grouping-key>Community ecology</map:grouping-key>
+        <map:display-name>Community ecology</map:display-name>
+        <map:display-name location="toc">Community ecology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130856.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130856" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130778.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130778" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130802.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130802" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130675.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130675" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130412.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130412" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Conservationbiology">
+        <map:grouping-key>Conservation biology</map:grouping-key>
+        <map:display-name>Conservation biology</map:display-name>
+        <map:display-name location="toc">Conservation biology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130672.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130672" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Evolutionarybiology">
+        <map:grouping-key>Evolutionary biology</map:grouping-key>
+        <map:display-name>Evolutionary biology</map:display-name>
+        <map:display-name location="toc">Evolutionary biology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130838.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130838" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130849.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130849" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130864.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130864" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130736.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130736" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130859.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130859"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Evolutionarydevelopmentalbiology">
+        <map:grouping-key>Evolutionary developmental biology</map:grouping-key>
+        <map:display-name>Evolutionary developmental biology</map:display-name>
+        <map:display-name location="toc">Evolutionary developmental biology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130563.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130563" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Globalchangebiology">
+        <map:grouping-key>Global change biology</map:grouping-key>
+        <map:display-name>Global change biology</map:display-name>
+        <map:display-name location="toc">Global change biology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130797.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130797" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Marinebiology">
+        <map:grouping-key>Marine biology</map:grouping-key>
+        <map:display-name>Marine biology</map:display-name>
+        <map:display-name location="toc">Marine biology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130812.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130812" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Molecularevolution">
+        <map:grouping-key>Molecular evolution</map:grouping-key>
+        <map:display-name>Molecular evolution</map:display-name>
+        <map:display-name location="toc">Molecular evolution</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130748.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130748" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Pathogenbiology">
+        <map:grouping-key>Pathogen biology</map:grouping-key>
+        <map:display-name>Pathogen biology</map:display-name>
+        <map:display-name location="toc">Pathogen biology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130887.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130887" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Physiology">
+        <map:grouping-key>Physiology</map:grouping-key>
+        <map:display-name>Physiology</map:display-name>
+        <map:display-name location="toc">Physiology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130839.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130839" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Neurobiology">
+        <map:grouping-key>Neurobiology</map:grouping-key>
+        <map:display-name>Neurobiology</map:display-name>
+        <map:display-name location="toc">Neurobiology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130687.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130687" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130828.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130828" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130602.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130602" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Populationecology">
+        <map:grouping-key>Population ecology</map:grouping-key>
+        <map:display-name>Population ecology</map:display-name>
+        <map:display-name location="toc">Population ecology</map:display-name>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130669.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130669" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+    <map:group xml:id="Specialfeature">
+        <map:grouping-key>Special feature</map:grouping-key>
+        <map:display-name>Special feature</map:display-name>
+        <map:display-name location="toc">Special feature</map:display-name>
+        <map:toc-blurb location="section-top">50 Years on: the legacy of William Donald Hamilton</map:toc-blurb>
+        <map:toc-blurb location="section-top">Organized by Joan Herbers and Neil Tsutsui</map:toc-blurb>
+        <map:citations>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130792.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130792"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130335.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130335" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130395.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130395" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130416.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130416" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130365.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130365" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130199.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130199" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130309.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130309" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130334.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130334" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130491.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130491" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130454.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130454" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130444.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130444" has-gca="yes"/>
+            <map:citation-ref sass-href="/roybiolett/9/6/20130367.atom" base="http://sass.highwire.org" legacy-resource-id="roybiolett;9/6/20130367" has-gca="yes"/>
+        </map:citations>
+    </map:group>
+</map:toc-order>

@@ -1,0 +1,25 @@
+language: php
+dist: trusty
+sudo: false
+
+php:
+  - 5.4
+  - 5.5
+  - 5.6
+  - 7.0
+  - 7.1
+  - hhvm
+
+before_script:
+    - composer install
+
+script:
+  - mkdir -p build/logs
+  - vendor/bin/phpunit --coverage-clover build/logs/clover.xml
+
+after_script:
+  - vendor/bin/coveralls -v
+
+matrix:
+  allow_failures:
+    - php: hhvm-nightly

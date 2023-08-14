@@ -1,0 +1,67 @@
+{
+  "apath": "/bmj/352/8048/Education.atom",
+  "atype": "section",
+  "atype-long": "journal-section",
+  "atom-id": "tag:bmj@highwire.stanford.edu,2016-03-10:352/8048/Education",
+  "featured": "",
+  "jcode": "bmj",
+  "journal-meta": [],
+  "title": "Education",
+  "slug": "Education",
+  "variant-data": [
+    {
+      "path": "/bmj/352/8048/Education.full.pdf",
+      "variant": "full-text",
+      "type": "application/pdf"
+    }
+  ],
+  "related": [
+    {
+      "apath": "/bmj/352/bmj.i844.atom",
+      "type": "related",
+      "via": "/bmj/352/8048/Education/rel/07fa39790e8a9a8c.atom"
+    },
+    {
+      "apath": "/bmj/352/bmj.i860.atom",
+      "type": "related",
+      "via": "/bmj/352/8048/Education/rel/480805c900f063f6.atom"
+    },
+    {
+      "apath": "/bmj/352/bmj.i201.atom",
+      "type": "related",
+      "via": "/bmj/352/8048/Education/rel/8b5414bc1f408737.atom"
+    },
+    {
+      "apath": "/bmj/352/bmj.i1281.atom",
+      "type": "related",
+      "via": "/bmj/352/8048/Education/rel/83aefa67e904ab08.atom"
+    },
+    {
+      "apath": "/bmj/352/bmj.i998.atom",
+      "type": "related",
+      "via": "/bmj/352/8048/Education/rel/e2984b495fffe144.atom"
+    }
+  ],
+  "parent": "/bmj/352/8048.atom",
+  "early-release": false,
+  "date-history": [],
+  "contributors-xml": [
+    "<atom:author xmlns:atom=\"http://www.w3.org/2005/Atom\"><atom:name/></atom:author>"
+  ],
+  "article-categories": [],
+  "atom-collections": [
+    {
+      "scheme": "http://atom-collections.highwire.org/highwire/content#publisher",
+      "term": "bma",
+      "label": "British Medical Association"
+    },
+    {
+      "scheme": "http://atom-collections.highwire.org/highwire/content#publisher",
+      "term": "bma",
+      "label": "British Medical Association"
+    }
+  ],
+  "book-part-categories": [],
+  "resource-type-long": "",
+  "article-full-pdf": "/bmj/352/8048/Education.full.pdf"
+}

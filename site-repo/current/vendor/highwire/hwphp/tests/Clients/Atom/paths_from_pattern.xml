@@ -1,0 +1,9 @@
+<resources type="pattern" forests="marklogic-dev-01">
+/mheaeworks/book/9780070045316/back-matter/appendix1.atom
+/mheaeworks/book/9780070045316/back-matter/appendix2.atom
+/mheaeworks/book/9780070045316/back-matter/appendix3.atom
+/mheaeworks/book/9780070045316/back-matter/appendix4.atom
+/mheaeworks/book/9780070045316/chapter/chapter1.atom
+/mheaeworks/book/9780070045316/chapter/chapter1/search-section/section1.atom
+/mheaeworks/book/9780070045316/chapter/chapter1/search-section/section1/figure/figure1.atom
+</resources>

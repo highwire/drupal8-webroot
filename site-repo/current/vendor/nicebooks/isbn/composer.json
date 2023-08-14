@@ -1,0 +1,27 @@
+{
+  "name": "nicebooks/isbn",
+  "description": "ISBN tools",
+  "type": "library",
+  "keywords": [
+    "ISBN",
+    "ISBN-10",
+    "ISBN-13",
+    "Book",
+    "Books",
+    "NiceBooks"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.*",
+    "satooshi/php-coveralls": "1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nicebooks\\Isbn\\": "src/",
+      "Nicebooks\\Isbn\\Tests\\": "tests/"
+    }
+  }
+}

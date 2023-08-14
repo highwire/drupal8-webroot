@@ -1,0 +1,21 @@
+checks:
+    php:
+        code_rating: true
+        duplication: true
+
+filter:
+    excluded_paths:
+        - vendor/*
+        - tests/*
+        - scripts/*
+        - misc/*
+build:
+    environment:
+      php: '7.0.8'
+    tests:
+      override:
+             -
+                command: 'vendor/bin/phpunit --coverage-clover=phpunit.report.coverage.xml'
+                coverage:
+                    file: 'phpunit.report.coverage.xml'
+                    format: 'clover'

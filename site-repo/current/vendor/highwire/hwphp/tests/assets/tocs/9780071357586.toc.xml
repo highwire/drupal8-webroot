@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map:toc-order xmlns:map="http://schema.highwire.org/Journal/Index/Manifest"
+               xml:base="http://sass-alpha.highwire.org/mheaeworks/book/9780071357586.atom?form=feed&amp;with-descendants=1&amp;with-descendants-lt=300&amp;with-variant=yes&amp;variant-role=http://schema.highwire.org/variant/manifest"
+               src="generated">
+   <map:group xml:id="Introduction">
+      <map:grouping-key>Introduction</map:grouping-key>
+      <map:display-name>Introduction</map:display-name>
+      <map:display-name location="toc">Introduction</map:display-name>
+      <map:citations>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section1.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section2.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section3.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section4.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section13.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section17.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section18.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section19.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section23.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section24.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section39.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section41.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section47.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter1/section/section48.atom"
+                           map:external="yes"/>
+      </map:citations>
+   </map:group>
+   <map:group xml:id="MechanicalAspectsandMacroscopicFracture-SurfaceOrientation">
+      <map:grouping-key>Mechanical Aspects and Macroscopic Fracture-Surface Orientation</map:grouping-key>
+      <map:display-name>Mechanical Aspects and Macroscopic Fracture-Surface Orientation</map:display-name>
+      <map:display-name location="toc">Mechanical Aspects and Macroscopic Fracture-Surface Orientation</map:display-name>
+      <map:citations>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section49.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section50.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section51.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section52.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section53.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section54.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section55.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section56.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section57.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section58.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section59.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section60.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section61.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section62.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section63.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section64.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter2/section/section65.atom"
+                           map:external="yes"/>
+      </map:citations>
+   </map:group>
+   <map:group xml:id="FractureMechanismsandMicrofractographicFeatures">
+      <map:grouping-key>Fracture Mechanisms and Microfractographic Features</map:grouping-key>
+      <map:display-name>Fracture Mechanisms and Microfractographic Features</map:display-name>
+      <map:display-name location="toc">Fracture Mechanisms and Microfractographic Features</map:display-name>
+      <map:citations>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section66.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section67.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section68.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section69.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section70.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section71.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section72.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section73.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section74.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section75.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section76.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section77.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section78.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section79.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section80.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section81.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section82.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section83.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section84.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section85.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter3/section/section86.atom"
+                           map:external="yes"/>
+      </map:citations>
+   </map:group>
+   <map:group xml:id="FractureModesandMacrofractographicFeatures">
+      <map:grouping-key>Fracture Modes and Macrofractographic Features</map:grouping-key>
+      <map:display-name>Fracture Modes and Macrofractographic Features</map:display-name>
+      <map:display-name location="toc">Fracture Modes and Macrofractographic Features</map:display-name>
+      <map:citations>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter4/section/section87.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter4/section/section88.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter4/section/section89.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter4/section/section90.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter4/section/section91.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter4/section/section92.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter4/section/section93.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter4/section/section94.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter4/section/section95.atom"
+                           map:external="yes"/>
+      </map:citations>
+   </map:group>
+   <map:group xml:id="FailureAnalysisofComposites">
+      <map:grouping-key>Failure Analysis of Composites</map:grouping-key>
+      <map:display-name>Failure Analysis of Composites</map:display-name>
+      <map:display-name location="toc">Failure Analysis of Composites</map:display-name>
+      <map:citations>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter5/section/section96.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter5/section/section97.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter5/section/section98.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter5/section/section112.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter5/section/section115.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter5/section/section122.atom"
+                           map:external="yes"/>
+      </map:citations>
+   </map:group>
+   <map:group xml:id="ElectronicFailureAnalysis">
+      <map:grouping-key>Electronic Failure Analysis</map:grouping-key>
+      <map:display-name>Electronic Failure Analysis</map:display-name>
+      <map:display-name location="toc">Electronic Failure Analysis</map:display-name>
+      <map:citations>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter6/section/section123.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter6/section/section124.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter6/section/section126.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter6/section/section148.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter6/section/section156.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter6/section/section172.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter6/section/section181.atom"
+                           map:external="yes"/>
+      </map:citations>
+   </map:group>
+   <map:group xml:id="CaseStudies">
+      <map:grouping-key>Case Studies</map:grouping-key>
+      <map:display-name>Case Studies</map:display-name>
+      <map:display-name location="toc">Case Studies</map:display-name>
+      <map:citations>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section182.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section183.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section184.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section190.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section199.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section207.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section216.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section225.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section234.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section244.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section255.atom"
+                           map:external="yes"/>
+         <map:citation-ref sass-href="/mheaeworks/book/9780071357586/toc-chapter/chapter7/section/section256.atom"
+                           map:external="yes"/>
+      </map:citations>
+   </map:group>
+</map:toc-order>

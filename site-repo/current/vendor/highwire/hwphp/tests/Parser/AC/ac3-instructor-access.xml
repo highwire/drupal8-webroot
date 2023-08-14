@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ac:runtime-response xmlns:ac="http://schema.highwire.org/Access">
+    <ac:authentication>
+        <ac:identity runtime-id="7d24de00" type="individual" subCode="1" user-id="40" display-name="Alexander Instructor" email="aoneill+instructor@highwirepress.com">
+            <ac:credentials method="username">sigma</ac:credentials>
+            <ac:privilege id="b2faff10" type="subscription" status="active" privilege-set="specific-resource" resource="urn:isbn:978-0-8261-1749-6" />
+            <ac:privilege id="3bba6da3" type="subscription" status="active" privilege-set="specific-resource" resource="urn:isbn:978-0-8261-0783-1" />
+            <ac:privilege id="317decc3" type="subscription" status="active" privilege-set="specific-resource" resource="urn:isbn:978-0-8261-3466-0" />
+            <ac:privilege id="0121a606" type="subscription" status="active" privilege-set="specific-resource" resource="urn:isbn:978-0-8261-3252-9" />
+            <ac:privilege id="fb8d16cd" type="subscription" status="active" privilege-set="specific-resource" resource="urn:isbn:978-0-8261-3184-3" />
+            <ac:privilege id="e6f21ad1" type="subscription" status="active" privilege-set="specific-resource" resource="urn:isbn:978-1-6170-5286-6" />
+        </ac:identity>
+    </ac:authentication>
+    <ac:authorization target="resource" uri="/sgrworks/book/978-0-8261-3184-3.atom" scope="instruct">
+        <ac:unauthorized />
+    </ac:authorization>
+    <ac:authorization target="resource" uri="/sgrworks/book/978-0-8261-3184-3.atom" scope="online">
+        <ac:authorized identity="7d24de00" privilege="fb8d16cd" />
+    </ac:authorization>
+    <ac:authorization target="resource" uri="/sgrworks/book/978-0-8261-3184-3.atom" scope="download">
+        <ac:authorized identity="7d24de00" privilege="fb8d16cd" />
+    </ac:authorization>
+    <ac:authorization target="resource" uri="/sgrworks/book/978-0-8261-3184-3.atom" scope="any">
+        <ac:authorized identity="7d24de00" privilege="urn:ac.highwire.org:free:privilege" reason="anybody" />
+        <ac:scoped target="variant" role="toc" type="application/xhtml+xml" lang="en" />
+        <ac:scoped target="variant" role="abstract" type="application/xhtml+xml" lang="en" />
+    </ac:authorization>
+    <ac:http-response />
+</ac:runtime-response>
