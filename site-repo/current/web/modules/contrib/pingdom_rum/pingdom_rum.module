@@ -1,0 +1,121 @@
+<?php
+
+/**
+ * @file
+ * All the main code for the Pingdom RUM module.
+ */
+
+/**
+ * Hook_library_info_build implementation.
+ *
+ * We need to add Pingdom's JS code using libraries. The file
+ * module.libraries.yml only contains static URLs, whereas we need
+ * to include the project ID in the URL. So we add the library
+ * at run time.
+ */
+function pingdom_rum_library_info_build() {
+  $config = \Drupal::config('pingdom_rum.settings');
+  $url = '//rum-static.pingdom.net/pa-' . $config->get('project_id') . ".js";
+  $libraries = [];
+  $libraries['pingdom_code'] = [
+    'header' => TRUE,
+    'js' => [
+      $url => [
+        'type' => 'external',
+        'preprocess' => FALSE,
+        'attributes' => [
+          'async' => TRUE,
+        ],
+      ],
+    ],
+  ];
+  return $libraries;
+}
+
+/**
+ * Hook_page_attachments implementation.
+ *
+ * Attach the Pingdom RUM library to the whole page, when required.
+ */
+function pingdom_rum_page_attachments(array &$page) {
+  $config = \Drupal::config('pingdom_rum.settings');
+  $user = \Drupal::currentUser();
+  $project_id = $config->get('project_id');
+  if ($project_id != ''
+    && _pingdom_rum_visibility_roles($user)
+    && _pingdom_rum_visibility_pages()
+  ) {
+    $page['#attached']['library'][] = 'pingdom_rum/pingdom_code';
+  }
+}
+
+/**
+ * Function to determine whether to include RUM code, based on user role.
+ *
+ * Based on visibility setting this function returns TRUE if Pingdom RUM code
+ * should be added for the current role and otherwise FALSE.
+ */
+function _pingdom_rum_visibility_roles($user) {
+  $config = \Drupal::config('pingdom_rum.settings');
+  $visibility = $config->get('roles_type');
+  $enabled = $visibility;
+  $roles = $config->get('roles');
+  $role_array_values = array_unique(array_values($roles));
+
+  // Find out if any roles have been checked on the settings form.
+  // If so there will be at least 1 role where the role value is the role name.
+  // So if $role_array_values is empty, or only has '0' in, no roles checked.
+  // Enough to check first two values. If the first value is not '0', a role
+  // is checked. If not, but there is a second, not '0', a role is checked.
+  if ((count($role_array_values) > 0 && $role_array_values[0] != '0') ||
+    (count($role_array_values) > 1 && $role_array_values[1] != '0')) {
+    // One or more roles are selected.
+    foreach (array_values($user->getRoles()) as $role) {
+      // Is the current user a member of one of these roles?
+      if (in_array($role, $roles)) {
+        // Current user is a member of a role that should be in/excluded.
+        $enabled = !$visibility;
+        break;
+      }
+    }
+  }
+  else {
+    // No role is selected, therefore all roles should be included.
+    $enabled = TRUE;
+  }
+  return $enabled;
+}
+
+/**
+ * Function to determine whether to include RUM code, based on path of page.
+ *
+ * Based on visibility setting this function returns TRUE if Pingdom RUM code
+ * should be added to the current page and otherwise FALSE.
+ */
+function _pingdom_rum_visibility_pages() {
+  static $page_match;
+
+  // Cache visibility result if function is called more than once.
+  if (!isset($page_match)) {
+    $config = \Drupal::config('pingdom_rum.settings');
+    $visibility = $config->get('visibility_pages');
+    $setting_pages = $config->get('pages');
+    // Match path if necessary.
+    if (!empty($setting_pages)) {
+      // Convert path to lowercase. This allows comparison of the same path.
+      // with different case. Ex: /Page, /page, /PAGE.
+      $pages = mb_strtolower($setting_pages);
+      $path = \Drupal::service('path.current')->getPath();
+      $path_alias = mb_strtolower(\Drupal::service('path_alias.manager')->getAliasByPath($path));
+      $page_match = \Drupal::service('path.matcher')->matchPath($path_alias, $pages) || (($path != $path_alias) && \Drupal::service('path.matcher')->matchPath($path, $pages));
+      // When $visibility_request_path_mode has a value of 0, the tracking
+      // code is displayed on all pages except those listed in $pages. When
+      // set to 1, it is displayed only on those pages listed in $pages.
+      $page_match = !($visibility xor $page_match);
+    }
+    else {
+      $page_match = TRUE;
+    }
+  }
+  return $page_match;
+}

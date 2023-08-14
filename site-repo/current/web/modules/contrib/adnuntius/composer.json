@@ -1,0 +1,12 @@
+{
+  "name": "drupal/adnuntius",
+  "description": "Provides plugins for displaying Adnuntius.com ads in Drupal.",
+  "type": "drupal-module",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Stephan Zeidler",
+      "email": "stephan@ramsalt.com"
+    }
+  ]
+}

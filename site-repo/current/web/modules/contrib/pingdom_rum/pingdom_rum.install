@@ -1,0 +1,26 @@
+<?php
+
+/**
+ * @file
+ * Installation and upgrade code for Pingdom RUM module.
+ */
+
+use Drupal\Core\Url;
+
+/**
+ * Implements hook_requirements().
+ */
+function pingdom_rum_requirements($phase) {
+  $requirements = [];
+  if ($phase == "runtime") {
+    $config = \Drupal::config('pingdom_rum.settings');
+    if (!preg_match('/^[a-f0-9]+$/', $config->get('project_id'))) {
+      $requirements["pingdom_rum_config"] = [
+        'title' => t('Pingdom RUM'),
+        'value' => t('Pingdom RUM module has not been configured yet. Please configure its settings from the <a href=":url">Pingdom RUM settings page</a>. You need to set your 24-character hexadecimal "project ID".', [':url' => Url::fromRoute('pingdom_rum.admin_settings')->toString()]),
+        'severity' => REQUIREMENT_WARNING,
+      ];
+    }
+  }
+  return $requirements;
+}

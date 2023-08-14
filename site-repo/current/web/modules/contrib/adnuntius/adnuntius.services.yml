@@ -1,0 +1,4 @@
+services:
+  adnuntius.manager:
+    class: Drupal\adnuntius\AdnuntiusManager
+    arguments: ['@config.factory', '@renderer']

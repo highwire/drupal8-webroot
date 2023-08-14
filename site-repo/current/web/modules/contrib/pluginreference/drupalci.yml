@@ -1,0 +1,39 @@
+# This is the DrupalCI testbot build file for Pluginreference.
+# Learn to make one for your own drupal.org project:
+# https://www.drupal.org/drupalorg/docs/drupal-ci/customizing-drupalci-testing
+build:
+  assessment:
+    validate_codebase:
+      phplint:
+#      csslint:
+#        halt-on-fail: true
+#      eslint:
+#        halt-on-fail: true
+      phpcs:
+        sniff-all-files: false
+        halt-on-fail: true
+      phpstan:
+        halt-on-fail: true
+    testing:
+#      run_tests.phpunit:
+#        types: 'PHPUnit-Unit'
+#        testgroups: '--all'
+#        suppress-deprecations: false
+#        halt-on-fail: false
+      run_tests.kernel:
+        types: 'PHPUnit-Kernel'
+        testgroups: '--all'
+        suppress-deprecations: false
+        halt-on-fail: false
+      run_tests.functional:
+        types: 'PHPUnit-Functional'
+        testgroups: '--all'
+        suppress-deprecations: false
+        halt-on-fail: false
+#      run_tests.javascript:
+#        concurrency: 1
+#        types: 'PHPUnit-FunctionalJavascript'
+#        testgroups: '--all'
+#        suppress-deprecations: false
+#        halt-on-fail: false
+#      nightwatchjs:

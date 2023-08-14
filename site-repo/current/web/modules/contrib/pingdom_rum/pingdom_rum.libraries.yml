@@ -1,0 +1,7 @@
+pingdom_rum.admin:
+  version: VERSION
+  js:
+    js/pingdom_rum.admin.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery

@@ -1,0 +1,22 @@
+pingdom_rum.settings:
+  type: mapping
+  label: Settings
+  mapping:
+    project_id:
+      type: string
+      label: 'The 24 character project ID given by Pingdom'
+    roles_type:
+      type: integer
+      label: '0 to add to selected roles only, 1 to exclude selected roles'
+    visibility_pages:
+      type: integer
+      label: '0 to show on specified pages only, 1 to exclude specified pages'
+    pages:
+      type: string
+      label: 'The pages on which to show (or exclude)'
+    roles:
+      type: sequence
+      label: 'The roles for which to show (or exclude)'
+      sequence:
+        type: string
+        label: 'Role'

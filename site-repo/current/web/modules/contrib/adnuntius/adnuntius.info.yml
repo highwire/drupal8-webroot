@@ -1,0 +1,14 @@
+name: 'Adnuntius'
+type: module
+description: 'Provides plugins for displaying Adnuntius.com ads in Drupal.'
+core: 8.x
+core_version_requirement: ^8 || ^9
+configure: adnuntius.settings
+dependencies:
+  - drupal:block
+  - drupal:field
+
+# Information added by Drupal.org packaging script on 2020-05-15
+version: '8.x-1.0-beta3'
+project: 'adnuntius'
+datestamp: 1589565079

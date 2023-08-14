@@ -1,0 +1,80 @@
+name: Freebird
+type: profile
+description: 'Online Publishing.'
+core: 8.x
+
+distribution:
+  name: Freebird / Scolaris 3
+
+install:
+  - admin_toolbar
+  - admin_toolbar_tools
+  - automated_cron
+  - history
+  - block
+  - block_content
+  - breakpoint
+  - color
+  - config
+  - comment
+  - components
+  - contextual
+  - contact
+  - datetime
+  - dblog
+  - dynamic_page_cache
+  - quickedit
+  - help
+  - image
+  - options
+  - path
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - editor
+  - ckeditor
+  - imce
+  - menu_ui
+  - media
+  - media_library
+  - page_cache
+  - system
+  - user
+  - panels
+  - page_manager
+  - page_manager_ui
+  - highwire_access_control
+  - highwire_binary
+  - highwire_citations
+  - highwire_client
+  - highwire_content
+  - highwire_core
+  - highwire_counter
+  - highwire_display
+  - highwire_hwphp
+  - highwire_kafka
+  - highwire_markup
+  - highwire_markup_display
+  - highwire_metatag
+  - highwire_openurl
+  - highwire_personalization
+  - highwire_sams_sigma
+  - highwire_search
+  - highwire_taxonomy
+  - highwire_user
+  - openid_connect_sams_sigma
+
+dependencies:
+  - node
+  - block
+  - views
+
+themes:
+  - seven

@@ -1,0 +1,7 @@
+adnuntius.settings:
+  path: '/admin/config/services/adnuntius'
+  defaults:
+    _form: '\Drupal\adnuntius\Form\AdnuntiusSettingsForm'
+    _title: 'Adnuntius'
+  requirements:
+    _permission: 'administer adnuntius'

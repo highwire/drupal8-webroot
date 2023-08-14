@@ -1,0 +1,5 @@
+pingdom_rum.admin_settings:
+  route_name: pingdom_rum.admin_settings
+  title: 'Pingdom RUM Settings'
+  description: 'Customise your Pingdom RUM account'
+  parent: system.admin_config_services

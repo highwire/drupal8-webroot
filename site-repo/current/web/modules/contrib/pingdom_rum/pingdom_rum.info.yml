@@ -1,0 +1,10 @@
+name: 'Pingdom Real User Monitoring Integration'
+description: 'Adds javascript into the HEAD section for <a href="https://www.pingdom.com/rum">Pingdom RUM</a>.'
+core_version_requirement: ^8 || ^9 || ^10
+type: module
+dependencies: {  }
+
+# Information added by Drupal.org packaging script on 2022-12-13
+version: '2.0.5'
+project: 'pingdom_rum'
+datestamp: 1670923587

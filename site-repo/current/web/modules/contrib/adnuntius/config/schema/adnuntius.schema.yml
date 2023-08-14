@@ -1,0 +1,81 @@
+adnuntius.settings:
+  type: config_object
+  label: 'Adnuntius Settings'
+  mapping:
+    ad_units:
+      type: sequence
+      label: 'Adnuntius Ad Units'
+      sequence:
+        - type: mapping
+          label: 'Mapping'
+          mapping:
+            label:
+              type: string
+              label: 'Ad Unit Label'
+            auid:
+              type: string
+              label: 'Ad Unit Id'
+            width:
+              type: integer
+              label: 'Width of the ad unit'
+            height:
+              type: integer
+              label: 'Height of the ad unit'
+            weight:
+              type: integer
+              label: 'Weight of the ad unit'
+
+block.settings.adnuntius_block:
+  type: block_settings
+  label: 'Adnuntius Block Settings'
+  mapping:
+    auid:
+      type: string
+      label: 'Adnuntius Ad Unit Id'
+    invocation_method:
+      type: string
+      label: 'Invocation Method'
+
+field.value.adnuntius:
+  type: mapping
+  label: 'Default value'
+  mapping:
+    auid:
+      type: string
+      label: 'Adnuntius Ad Unit Id'
+    invocation_method:
+      type: string
+      label: 'Invocation Method'
+
+field.field_settings.adnuntius:
+  type: mapping
+  label: 'Adnuntius field settings'
+  mapping:
+    invocation_method_per_entity:
+      type: boolean
+      label: 'Invocation Method per Entity'
+
+field.widget.settings.adnuntius:
+  type: mapping
+  label: 'Adnuntius widget settings'
+  mapping:
+    enabled_ad_units:
+      type: sequence
+      label: 'Enabled ad units'
+      sequence:
+        - type: string
+          label: 'Ad Unit Id'
+    invocation_methods:
+      type: sequence
+      label: 'Invocation Methods'
+      sequence:
+        - type: string
+          label: 'Invocation Method'
+
+field.formatter.settings.adnuntius:
+  type: mapping
+  label: 'Adnuntius formatter settings'
+  mapping:
+    invocation_method:
+      type: string
+      label: 'Invocation Method'

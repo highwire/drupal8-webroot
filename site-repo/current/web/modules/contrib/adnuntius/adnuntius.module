@@ -1,0 +1,35 @@
+<?php
+
+/**
+ * @file
+ * This module provides an integration with adnuntius ads.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function adnuntius_theme($existing, $type, $theme, $path) {
+  return [
+    'adnuntius' => [
+      'variables' => [
+        'label' => NULL,
+        'auid' => NULL,
+        'width' => NULL,
+        'height' => NULL,
+        'invocation_method' => NULL,
+      ],
+    ],
+  ];
+}
+
+/**
+ * Implements hook_theme_suggestions_HOOK().
+ */
+function adnuntius_theme_suggestions_adnuntius(array $variables) {
+  $suggestions = [];
+
+  $suggestions[] = 'adnuntius__' . $variables['invocation_method'];
+  $suggestions[] = 'adnuntius__' . $variables['auid'];
+
+  return $suggestions;
+}

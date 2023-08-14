@@ -1,0 +1,13 @@
+name: Plugin Reference
+type: module
+description: Provides a field that stores a soft reference to a plugin
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Field types
+dependencies:
+  - drupal:field
+
+# Information added by Drupal.org packaging script on 2020-06-03
+version: '8.x-1.1'
+project: 'pluginreference'
+datestamp: 1591168590

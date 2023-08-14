@@ -1,0 +1,7 @@
+pingdom_rum.admin_settings:
+  path: /admin/config/services/pingdom
+  defaults:
+    _title: 'Pingdom RUM Settings'
+    _form: \Drupal\pingdom_rum\Form\PingdomRumAdminSettings
+  requirements:
+    _permission: 'administer site configuration'

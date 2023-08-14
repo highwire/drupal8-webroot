@@ -1,0 +1,17 @@
+# Schema for the configuration files of the Plugin Reference module.
+
+field.storage_settings.plugin_reference:
+  type: mapping
+  label: 'Plugin reference field storage settings'
+  mapping:
+    target_type:
+      type: string
+      label: 'Type of plugin to reference'
+
+field.widget.settings.plugin_reference_select:
+  type: mapping
+  label: 'Default pluginreference widget settings'
+  mapping:
+    provider_grouping:
+      type: boolean
+      label: 'Group the options per provider.'

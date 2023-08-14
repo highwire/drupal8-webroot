@@ -1,0 +1,6 @@
+administer adnuntius:
+  title: 'Administer Adnuntius'
+  description: 'Configure the Adnuntius integration.'
+use adnuntius field:
+  title: 'Use Adnuntius Field'
+  description: 'Allows to use the Adnuntius Field.'
