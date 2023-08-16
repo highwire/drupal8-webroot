@@ -149,7 +149,7 @@ function recursive_rename($directory, $find, $replace) {
 function recursive_replace($directory, $find, $replace) {
   $files = scandir($directory);
   foreach ($files as $file) {
-    if ($file == '.' || $file == '..') continue;
+    if ($file == '.' || $file == '..' || $file == '.git') continue;
 
     $full_path = $directory . '/' . $file;
     if (is_file($full_path)) {
