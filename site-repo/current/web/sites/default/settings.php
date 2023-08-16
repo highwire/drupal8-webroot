@@ -31,17 +31,6 @@ $dotenv->safeLoad();
 
 $databases = [];
 
-$databases['default']['default'] = [
-  'driver' => 'mysql',
-  'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
-  'host' => getenv('MYSQL_HOSTNAME'),
-  'database' => getenv('MYSQL_DATABASE'),
-  'username' => getenv('MYSQL_USER'),
-  'password' => getenv('MYSQL_PASSWORD'),
-  'port' => getenv('MYSQL_PORT'),
-  'prefix' => '',
-];
-
 /**
  * Location of the site configuration files.
  */
