@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taxonomy xmlns="http://schema.highwire.org/Taxonomy"
+  xmlns:acs="http://schema.highwire.org/AtomCollection"
+  xmlns:n="http://schema.highwire.org/Taxonomy/Node" collection="content"
+  xml:base="http://taxonomy-svc-qa.highwire.org/tree/mhe/content/eng_thesaurus.xml"
+  description="MHE Engineering Thesaurus" fixed="true" name="MHE Engineering Thesaurus"
+  publisher="mhe" root_node_id="f84f13ad" scheme="eng_thesaurus" uniqeTerms="true">
+  <node id="f84f13ad" term="eng_thesaurus" label="eng_thesaurus"
+    acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad" acs:term="f84f13ad"
+    path="eng_thesaurus" href="/tree/mhe/content/eng_thesaurus/f84f13ad">
+    <description>&lt;div&gt;&lt;/div&gt;</description>
+    <node id="28342f8a" term="makerspace" label="Makerspace"
+      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a"
+      acs:term="28342f8a" path="makerspace" href="/tree/mhe/content/eng_thesaurus/28342f8a">
+      <description>&lt;div&gt;Description of the &lt;em&gt;makerspace&lt;/em&gt;
+          node.&lt;/div&gt;</description>
+      <ancestors>
+          <ancestor id="f84f13ad" term="eng_thesaurus" label="eng_thesaurus"
+              acs:term="f84f13ad" path="eng_thesaurus"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"/>
+      </ancestors>
+      <node id="48f7e4f3" term="diy machines and mechanisms"
+          label="DIY machines and mechanisms"
+          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=48f7e4f3"
+          acs:term="48f7e4f3" path="diy-machines-and-mechanisms"
+          href="/tree/mhe/content/eng_thesaurus/48f7e4f3">
+          <description>&lt;div&gt;Description of the &lt;em&gt;diy machines and
+              mechanisms&lt;/em&gt; node.&lt;/div&gt;</description>
+          <ancestors>
+              <ancestor id="28342f8a" term="makerspace" label="Makerspace" acs:term="28342f8a"
+                  path="makerspace"
+                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                  <ancestors>
+                      <ancestor id="f84f13ad" term="eng_thesaurus" label="eng_thesaurus"
+                          acs:term="f84f13ad" path="eng_thesaurus"
+                          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                      />
+                  </ancestors>
+                  <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                      node.</description>
+              </ancestor>
+          </ancestors>
+      </node>
+      <node id="087e62cf" term="internet of things" label="Internet of things"
+          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=087e62cf"
+          acs:term="087e62cf" path="internet-of-things"
+          href="/tree/mhe/content/eng_thesaurus/087e62cf">
+          <description>&lt;div&gt;Description of the &lt;em&gt;internet of things&lt;/em&gt;
+              node.&lt;/div&gt;</description>
+          <synonym>IOT</synonym>
+          <ancestors>
+              <ancestor id="92f93c81" term="embedded systems" label="Embedded systems"
+                  acs:term="92f93c81" path="embedded-systems"
+                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=92f93c81">
+                  <ancestors>
+                      <ancestor id="c5bda0a0" term="computer engineering"
+                          label="Computer engineering" acs:term="c5bda0a0"
+                          path="computer-engineering"
+                          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=c5bda0a0">
+                          <ancestors>
+                              <ancestor id="f84f13ad" term="eng_thesaurus"
+                                  label="eng_thesaurus" acs:term="f84f13ad"
+                                  path="eng_thesaurus"
+                                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                              />
+                          </ancestors>
+                          <description>Description of the &lt;em&gt;computer
+                              engineering&lt;/em&gt; node.</description>
+                      </ancestor>
+                  </ancestors>
+                  <description>Description of the &lt;em&gt;embedded systems&lt;/em&gt;
+                      node.</description>
+              </ancestor>
+              <ancestor id="28342f8a" term="makerspace" label="Makerspace" acs:term="28342f8a"
+                  path="makerspace"
+                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                  <ancestors>
+                      <ancestor id="f84f13ad" term="eng_thesaurus" label="eng_thesaurus"
+                          acs:term="f84f13ad" path="eng_thesaurus"
+                          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                      />
+                  </ancestors>
+                  <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                      node.</description>
+              </ancestor>
+          </ancestors>
+          <node id="7d5dc904" term="cloud computing" label="Cloud computing"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=7d5dc904"
+              acs:term="7d5dc904" path="cloud-computing"
+              href="/tree/mhe/content/eng_thesaurus/7d5dc904">
+              <description>&lt;div&gt;Description of the &lt;em&gt;cloud computing&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="087e62cf" term="internet of things" label="Internet of things"
+                      acs:term="087e62cf" path="internet-of-things"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=087e62cf">
+                      <ancestors>
+                          <ancestor id="92f93c81" term="embedded systems"
+                              label="Embedded systems" acs:term="92f93c81"
+                              path="embedded-systems"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=92f93c81">
+                              <ancestors>
+                                  <ancestor id="c5bda0a0" term="computer engineering"
+                                      label="Computer engineering" acs:term="c5bda0a0"
+                                      path="computer-engineering"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=c5bda0a0">
+                                      <ancestors>
+                                          <ancestor id="f84f13ad" term="eng_thesaurus"
+                                            label="eng_thesaurus" acs:term="f84f13ad"
+                                            path="eng_thesaurus"
+                                            acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                          />
+                                      </ancestors>
+                                      <description>Description of the &lt;em&gt;computer
+                                          engineering&lt;/em&gt; node.</description>
+                                  </ancestor>
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;embedded
+                                  systems&lt;/em&gt; node.</description>
+                          </ancestor>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;internet of things&lt;/em&gt;
+                          node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Automotive" facetScheme="6" facetSchemeName="industries"
+                      id="e9889842" label="Automotive" term="automotive"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+                  <facet description="Telecommunications" facetScheme="6"
+                      facetSchemeName="industries" id="5e9c0dd9" label="Telecommunications"
+                      term="telecommunications"/>
+              </facets>
+          </node>
+          <facets>
+              <facet description="Automotive" facetScheme="6" facetSchemeName="industries"
+                  id="e9889842" label="Automotive" term="automotive"/>
+              <facet description="Aerospace and defense" facetScheme="6"
+                  facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                  term="aerospace and defense"/>
+              <facet description="Telecommunications" facetScheme="6"
+                  facetSchemeName="industries" id="5e9c0dd9" label="Telecommunications"
+                  term="telecommunications"/>
+          </facets>
+          <relatednodes>
+              <relatednode id="b6fd1392" term="microcontrollers" label="Microcontrollers"
+                  acs:term="b6fd1392" path="microcontrollers"
+                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=b6fd1392">
+                  <description>Description of the &lt;em&gt;microcontrollers&lt;/em&gt;
+                      node.</description>
+              </relatednode>
+          </relatednodes>
+      </node>
+      <node id="051d9c43" term="makerspace electronics" label="Makerspace electronics"
+          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43"
+          acs:term="051d9c43" path="makerspace-electronics"
+          href="/tree/mhe/content/eng_thesaurus/051d9c43">
+          <description>&lt;div&gt;Description of the &lt;em&gt;makerspace
+              electronics&lt;/em&gt; node.&lt;/div&gt;</description>
+          <ancestors>
+              <ancestor id="28342f8a" term="makerspace" label="Makerspace" acs:term="28342f8a"
+                  path="makerspace"
+                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                  <ancestors>
+                      <ancestor id="f84f13ad" term="eng_thesaurus" label="eng_thesaurus"
+                          acs:term="f84f13ad" path="eng_thesaurus"
+                          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                      />
+                  </ancestors>
+                  <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                      node.</description>
+              </ancestor>
+          </ancestors>
+          <node id="179aec0b" term="arduino" label="Arduino"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=179aec0b"
+              acs:term="179aec0b" path="arduino"
+              href="/tree/mhe/content/eng_thesaurus/179aec0b">
+              <description>&lt;div&gt;Description of the &lt;em&gt;arduino&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="051d9c43" term="makerspace electronics"
+                      label="Makerspace electronics" acs:term="051d9c43"
+                      path="makerspace-electronics"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          electronics&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Automotive" facetScheme="6" facetSchemeName="industries"
+                      id="e9889842" label="Automotive" term="automotive"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+                  <facet description="Telecommunications" facetScheme="6"
+                      facetSchemeName="industries" id="5e9c0dd9" label="Telecommunications"
+                      term="telecommunications"/>
+                  <facet description="Electronics" facetScheme="6"
+                      facetSchemeName="industries" id="a4984e19" label="Electronics"
+                      term="electronics"/>
+              </facets>
+          </node>
+          <node id="1fc13e81" term="autodesk eagle" label="Autodesk EAGLE"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=1fc13e81"
+              acs:term="1fc13e81" path="autodesk-eagle"
+              href="/tree/mhe/content/eng_thesaurus/1fc13e81">
+              <description>&lt;div&gt;Description of the &lt;em&gt;autodesk eagle&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="051d9c43" term="makerspace electronics"
+                      label="Makerspace electronics" acs:term="051d9c43"
+                      path="makerspace-electronics"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          electronics&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+          </node>
+          <node id="23c1af0c" term="basic stamp" label="BASIC Stamp"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=23c1af0c"
+              acs:term="23c1af0c" path="basic-stamp"
+              href="/tree/mhe/content/eng_thesaurus/23c1af0c">
+              <description>&lt;div&gt;Description of the &lt;em&gt;basic stamp&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="051d9c43" term="makerspace electronics"
+                      label="Makerspace electronics" acs:term="051d9c43"
+                      path="makerspace-electronics"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          electronics&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Automotive" facetScheme="6" facetSchemeName="industries"
+                      id="e9889842" label="Automotive" term="automotive"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+                  <facet description="Telecommunications" facetScheme="6"
+                      facetSchemeName="industries" id="5e9c0dd9" label="Telecommunications"
+                      term="telecommunications"/>
+                  <facet description="Electronics" facetScheme="6"
+                      facetSchemeName="industries" id="a4984e19" label="Electronics"
+                      term="electronics"/>
+              </facets>
+          </node>
+          <node id="d29690ad" term="beaglebone black" label="BeagleBone Black"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=d29690ad"
+              acs:term="d29690ad" path="beaglebone-black"
+              href="/tree/mhe/content/eng_thesaurus/d29690ad">
+              <description>&lt;div&gt;Description of the &lt;em&gt;beaglebone black&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="051d9c43" term="makerspace electronics"
+                      label="Makerspace electronics" acs:term="051d9c43"
+                      path="makerspace-electronics"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          electronics&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Automotive" facetScheme="6" facetSchemeName="industries"
+                      id="e9889842" label="Automotive" term="automotive"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+                  <facet description="Telecommunications" facetScheme="6"
+                      facetSchemeName="industries" id="5e9c0dd9" label="Telecommunications"
+                      term="telecommunications"/>
+                  <facet description="Electronics" facetScheme="6"
+                      facetSchemeName="industries" id="a4984e19" label="Electronics"
+                      term="electronics"/>
+              </facets>
+          </node>
+          <node id="0453caf9" term="drones" label="Drones"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=0453caf9"
+              acs:term="0453caf9" path="drones"
+              href="/tree/mhe/content/eng_thesaurus/0453caf9">
+              <description>&lt;div&gt;Description of the &lt;em&gt;drones&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <synonym>UAV</synonym>
+              <synonym>Unmanned aerial vehicles</synonym>
+              <ancestors>
+                  <ancestor id="051d9c43" term="makerspace electronics"
+                      label="Makerspace electronics" acs:term="051d9c43"
+                      path="makerspace-electronics"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          electronics&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <node id="67545e56" term="quadcopters" label="Quadcopters"
+                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=67545e56"
+                  acs:term="67545e56" path="quadcopters"
+                  href="/tree/mhe/content/eng_thesaurus/67545e56">
+                  <description>&lt;div&gt;Description of the &lt;em&gt;quadcopters&lt;/em&gt;
+                      node.&lt;/div&gt;</description>
+                  <synonym>Quadrotors</synonym>
+                  <synonym>Quadrotor helicopters</synonym>
+                  <ancestors>
+                      <ancestor id="0453caf9" term="drones" label="Drones" acs:term="0453caf9"
+                          path="drones"
+                          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=0453caf9">
+                          <ancestors>
+                              <ancestor id="051d9c43" term="makerspace electronics"
+                                  label="Makerspace electronics" acs:term="051d9c43"
+                                  path="makerspace-electronics"
+                                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43">
+                                  <ancestors>
+                                      <ancestor id="28342f8a" term="makerspace"
+                                          label="Makerspace" acs:term="28342f8a"
+                                          path="makerspace"
+                                          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                                          <ancestors>
+                                            <ancestor id="f84f13ad" term="eng_thesaurus"
+                                            label="eng_thesaurus" acs:term="f84f13ad"
+                                            path="eng_thesaurus"
+                                            acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                            />
+                                          </ancestors>
+                                          <description>Description of the
+                                            &lt;em&gt;makerspace&lt;/em&gt;
+                                            node.</description>
+                                      </ancestor>
+                                  </ancestors>
+                                  <description>Description of the &lt;em&gt;makerspace
+                                      electronics&lt;/em&gt; node.</description>
+                              </ancestor>
+                          </ancestors>
+                          <description>Description of the &lt;em&gt;drones&lt;/em&gt;
+                              node.</description>
+                      </ancestor>
+                  </ancestors>
+                  <facets>
+                      <facet description="Aerospace and defense" facetScheme="6"
+                          facetSchemeName="industries" id="03f88f1e"
+                          label="Aerospace and defense" term="aerospace and defense"/>
+                  </facets>
+              </node>
+              <facets>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+              </facets>
+          </node>
+          <node id="ea700ce2" term="edison boards" label="Edison boards"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=ea700ce2"
+              acs:term="ea700ce2" path="edison-boards"
+              href="/tree/mhe/content/eng_thesaurus/ea700ce2">
+              <description>&lt;div&gt;Description of the &lt;em&gt;edison boards&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="051d9c43" term="makerspace electronics"
+                      label="Makerspace electronics" acs:term="051d9c43"
+                      path="makerspace-electronics"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          electronics&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+          </node>
+          <node id="183a0f95" term="fritzing" label="Fritzing"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=183a0f95"
+              acs:term="183a0f95" path="fritzing"
+              href="/tree/mhe/content/eng_thesaurus/183a0f95">
+              <description>&lt;div&gt;Description of the &lt;em&gt;fritzing&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="051d9c43" term="makerspace electronics"
+                      label="Makerspace electronics" acs:term="051d9c43"
+                      path="makerspace-electronics"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          electronics&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+          </node>
+          <node id="931a4e16" term="raspberry pi" label="Raspberry Pi"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=931a4e16"
+              acs:term="931a4e16" path="raspberry-pi"
+              href="/tree/mhe/content/eng_thesaurus/931a4e16">
+              <description>&lt;div&gt;Description of the &lt;em&gt;raspberry pi&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="051d9c43" term="makerspace electronics"
+                      label="Makerspace electronics" acs:term="051d9c43"
+                      path="makerspace-electronics"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=051d9c43">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          electronics&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Automotive" facetScheme="6" facetSchemeName="industries"
+                      id="e9889842" label="Automotive" term="automotive"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+                  <facet description="Telecommunications" facetScheme="6"
+                      facetSchemeName="industries" id="5e9c0dd9" label="Telecommunications"
+                      term="telecommunications"/>
+                  <facet description="Electronics" facetScheme="6"
+                      facetSchemeName="industries" id="a4984e19" label="Electronics"
+                      term="electronics"/>
+              </facets>
+          </node>
+      </node>
+      <node id="c01f4105" term="makerspace fabrication" label="Makerspace fabrication"
+          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=c01f4105"
+          acs:term="c01f4105" path="makerspace-fabrication"
+          href="/tree/mhe/content/eng_thesaurus/c01f4105">
+          <description>&lt;div&gt;Description of the &lt;em&gt;makerspace
+              fabrication&lt;/em&gt; node.&lt;/div&gt;</description>
+          <ancestors>
+              <ancestor id="28342f8a" term="makerspace" label="Makerspace" acs:term="28342f8a"
+                  path="makerspace"
+                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                  <ancestors>
+                      <ancestor id="f84f13ad" term="eng_thesaurus" label="eng_thesaurus"
+                          acs:term="f84f13ad" path="eng_thesaurus"
+                          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                      />
+                  </ancestors>
+                  <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                      node.</description>
+              </ancestor>
+          </ancestors>
+          <node id="0812d7ea" term="3d printing" label="3d printing"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=0812d7ea"
+              acs:term="0812d7ea" path="3d-printing"
+              href="/tree/mhe/content/eng_thesaurus/0812d7ea">
+              <description>&lt;div&gt;Description of the &lt;em&gt;3d printing&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <synonym>Digital printing</synonym>
+              <ancestors>
+                  <ancestor id="c01f4105" term="makerspace fabrication"
+                      label="Makerspace fabrication" acs:term="c01f4105"
+                      path="makerspace-fabrication"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=c01f4105">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          fabrication&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Manufacturing" facetScheme="6"
+                      facetSchemeName="industries" id="ec0afaab" label="Manufacturing"
+                      term="manufacturing"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+              </facets>
+              <relatednodes>
+                  <relatednode id="02be0bc0" term="additive manufacturing"
+                      label="Additive manufacturing" acs:term="02be0bc0"
+                      path="additive-manufacturing"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=02be0bc0">
+                      <description>Description of the &lt;em&gt;additive
+                          manufacturing&lt;/em&gt; node.</description>
+                  </relatednode>
+                  <relatednode id="57d1f4d1" term="3d printers" label="3D printers"
+                      acs:term="57d1f4d1" path="3d-printers"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=57d1f4d1">
+                      <description>Description of the &lt;em&gt;3d printers&lt;/em&gt;
+                          node.</description>
+                  </relatednode>
+              </relatednodes>
+          </node>
+          <node id="79f51e51" term="autodesk 123d" label="Autodesk 123D"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=79f51e51"
+              acs:term="79f51e51" path="autodesk-123d"
+              href="/tree/mhe/content/eng_thesaurus/79f51e51">
+              <description>&lt;div&gt;Description of the &lt;em&gt;autodesk 123d&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="c01f4105" term="makerspace fabrication"
+                      label="Makerspace fabrication" acs:term="c01f4105"
+                      path="makerspace-fabrication"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=c01f4105">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          fabrication&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Manufacturing" facetScheme="6"
+                      facetSchemeName="industries" id="ec0afaab" label="Manufacturing"
+                      term="manufacturing"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+              </facets>
+          </node>
+          <node id="0926b85f" term="cnc fabrication" label="CNC fabrication"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=0926b85f"
+              acs:term="0926b85f" path="cnc-fabrication"
+              href="/tree/mhe/content/eng_thesaurus/0926b85f">
+              <description>&lt;div&gt;Description of the &lt;em&gt;cnc fabrication&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="c01f4105" term="makerspace fabrication"
+                      label="Makerspace fabrication" acs:term="c01f4105"
+                      path="makerspace-fabrication"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=c01f4105">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          fabrication&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+          </node>
+          <node id="e1eb5e32" term="makerbot" label="MakerBot"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=e1eb5e32"
+              acs:term="e1eb5e32" path="makerbot"
+              href="/tree/mhe/content/eng_thesaurus/e1eb5e32">
+              <description>&lt;div&gt;Description of the &lt;em&gt;makerbot&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="c01f4105" term="makerspace fabrication"
+                      label="Makerspace fabrication" acs:term="c01f4105"
+                      path="makerspace-fabrication"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=c01f4105">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          fabrication&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Manufacturing" facetScheme="6"
+                      facetSchemeName="industries" id="ec0afaab" label="Manufacturing"
+                      term="manufacturing"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+              </facets>
+          </node>
+          <node id="e911d936" term="sketchup" label="SketchUp"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=e911d936"
+              acs:term="e911d936" path="sketchup"
+              href="/tree/mhe/content/eng_thesaurus/e911d936">
+              <description>&lt;div&gt;Description of the &lt;em&gt;sketchup&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="c01f4105" term="makerspace fabrication"
+                      label="Makerspace fabrication" acs:term="c01f4105"
+                      path="makerspace-fabrication"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=c01f4105">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          fabrication&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Manufacturing" facetScheme="6"
+                      facetSchemeName="industries" id="ec0afaab" label="Manufacturing"
+                      term="manufacturing"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+              </facets>
+          </node>
+          <node id="e750b30e" term="tinkercad" label="Tinkercad"
+              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=e750b30e"
+              acs:term="e750b30e" path="tinkercad"
+              href="/tree/mhe/content/eng_thesaurus/e750b30e">
+              <description>&lt;div&gt;Description of the &lt;em&gt;tinkercad&lt;/em&gt;
+                  node.&lt;/div&gt;</description>
+              <ancestors>
+                  <ancestor id="c01f4105" term="makerspace fabrication"
+                      label="Makerspace fabrication" acs:term="c01f4105"
+                      path="makerspace-fabrication"
+                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=c01f4105">
+                      <ancestors>
+                          <ancestor id="28342f8a" term="makerspace" label="Makerspace"
+                              acs:term="28342f8a" path="makerspace"
+                              acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                              <ancestors>
+                                  <ancestor id="f84f13ad" term="eng_thesaurus"
+                                      label="eng_thesaurus" acs:term="f84f13ad"
+                                      path="eng_thesaurus"
+                                      acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                                  />
+                              </ancestors>
+                              <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                                  node.</description>
+                          </ancestor>
+                      </ancestors>
+                      <description>Description of the &lt;em&gt;makerspace
+                          fabrication&lt;/em&gt; node.</description>
+                  </ancestor>
+              </ancestors>
+              <facets>
+                  <facet description="Manufacturing" facetScheme="6"
+                      facetSchemeName="industries" id="ec0afaab" label="Manufacturing"
+                      term="manufacturing"/>
+                  <facet description="Aerospace and defense" facetScheme="6"
+                      facetSchemeName="industries" id="03f88f1e" label="Aerospace and defense"
+                      term="aerospace and defense"/>
+              </facets>
+          </node>
+      </node>
+      <node id="1ff363ea" term="makerspace robotics" label="Makerspace robotics"
+          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=1ff363ea"
+          acs:term="1ff363ea" path="makerspace-robotics"
+          href="/tree/mhe/content/eng_thesaurus/1ff363ea">
+          <description>&lt;div&gt;Description of the &lt;em&gt;makerspace robotics&lt;/em&gt;
+              node.&lt;/div&gt;</description>
+          <ancestors>
+              <ancestor id="28342f8a" term="makerspace" label="Makerspace" acs:term="28342f8a"
+                  path="makerspace"
+                  acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=28342f8a">
+                  <ancestors>
+                      <ancestor id="f84f13ad" term="eng_thesaurus" label="eng_thesaurus"
+                          acs:term="f84f13ad" path="eng_thesaurus"
+                          acs:members="/mhe/content/atom?scheme=eng_thesaurus&amp;term=f84f13ad"
+                      />
+                  </ancestors>
+                  <description>Description of the &lt;em&gt;makerspace&lt;/em&gt;
+                      node.</description>
+              </ancestor>
+          </ancestors>
+      </node>
+    </node>
+  </node>
+</taxonomy>

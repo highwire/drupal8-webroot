@@ -1,0 +1,224 @@
+[
+    {
+        "profile": {
+            "id": "dp-full-text",
+            "label": "Default production for HTML body for Story",
+            "description": "Generates a single HTML div containing the body text for the story and the related content block.",
+            "transforms": [
+                "dp-full-text-xfm"
+            ],
+            "filters": null,
+            "profilekey": "story:html:body",
+            "cachettl": 86400
+        },
+        "profileData": null,
+        "profileSource": {
+            "headers": [
+                "accept: application/atom+xml; type=entry"
+            ],
+            "profilekey": "story:html:body",
+            "originkey": "atom",
+            "uritemplate": "/{src}?with-variant=yes&variant-role=http://schema.highwire.org/variant/full-text"
+        },
+        "selector": null,
+        "selectorAtom": null,
+        "transforms": [
+            {
+                "description": "Generate a body for direct publishing content.",
+                "transformkey": "dp-full-text-xfm",
+                "originkey": "xml-tech",
+                "processoruri": "/publishing/story/format.xhtml.full-text.xsl",
+                "processor": null
+            }
+        ],
+        "filters": [],
+        "transformProps": [],
+        "outputProps": [],
+        "profileKey": "story:html:body"
+    },
+    {
+        "profile": {
+            "id": "georef",
+            "label": "Default production for HTML for Georef",
+            "description": "Generates a single HTML document containing the title & body text for the record.",
+            "transforms": [
+                "georef-xfm"
+            ],
+            "filters": null,
+            "profilekey": "georef:html",
+            "cachettl": 2592000
+        },
+        "profileData": null,
+        "profileSource": {
+            "headers": [
+                "accept: application/atom+xml; type=entry"
+            ],
+            "profilekey": "georef:html",
+            "originkey": "atom",
+            "uritemplate": "/{src}?with-variant=yes&variant-role=http://schema.highwire.org/variant/georef"
+        },
+        "selector": null,
+        "selectorAtom": null,
+        "transforms": [
+            {
+                "description": "Generate a document for georef.",
+                "transformkey": "georef-xfm",
+                "originkey": "pm-xml-tech",
+                "processoruri": "/publishing/georef/expanded.georef-xhtml.xsl",
+                "processor": null
+            }
+        ],
+        "filters": [],
+        "transformProps": [],
+        "outputProps": [],
+        "profileKey": "georef:html"
+    },
+    {
+        "profile": {
+            "id": "abstract",
+            "label": "Springer Book Abstract Profile",
+            "description": "Fetch a Springer Book abstract",
+            "transforms": [
+                "abstract-xfm"
+            ],
+            "filters": null,
+            "profilekey": "abstract-sgr-book",
+            "cachettl": 86400
+        },
+        "profileData": null,
+        "profileSource": {
+            "headers": [
+                "accept: application/vnd.hw.item-bits-abstract-temporary-xhtml+xml"
+            ],
+            "profilekey": "abstract-sgr-book",
+            "originkey": "atomlite",
+            "uritemplate": ""
+        },
+        "selector": null,
+        "selectorAtom": null,
+        "transforms": [
+            {
+                "description": "A transform for providing Springer book abstracts",
+                "transformkey": "abstract-xfm",
+                "originkey": "markup-profiles",
+                "processoruri": "/passthrough/transform.xsl",
+                "processor": null
+            }
+        ],
+        "filters": [],
+        "transformProps": [],
+        "outputProps": [],
+        "profileKey": "abstract-sgr-book"
+    },
+    {
+        "profile": {
+            "id": "contribs",
+            "label": "Springer Book Contributors Profile",
+            "description": "Fetch contributors for a Springer Book",
+            "transforms": [
+                "contribs-xfm"
+            ],
+            "filters": null,
+            "profilekey": "contribs-sgr-book",
+            "cachettl": 86400
+        },
+        "profileData": null,
+        "profileSource": {
+            "headers": [
+                "accept: application/vnd.hw.item-bits-book_contribgroup-temporary-xhtml+xml"
+            ],
+            "profilekey": "contribs-sgr-book",
+            "originkey": "atomlite",
+            "uritemplate": ""
+        },
+        "selector": null,
+        "selectorAtom": null,
+        "transforms": [
+            {
+                "description": "A transform for providing contributors from Springer books",
+                "transformkey": "contribs-xfm",
+                "originkey": "markup-profiles",
+                "processoruri": "/passthrough/transform.xsl",
+                "processor": null
+            }
+        ],
+        "filters": [],
+        "transformProps": [],
+        "outputProps": [],
+        "profileKey": "contribs-sgr-book"
+    },
+    {
+        "profile": {
+            "id": "fulltext",
+            "label": "Springer Book Contributors Profile",
+            "description": "Springer Book part full text Profile",
+            "transforms": [
+                "fulltext-xfm"
+            ],
+            "filters": null,
+            "profilekey": "fulltext-sgr-book",
+            "cachettl": 86400
+        },
+        "profileData": null,
+        "profileSource": {
+            "headers": [
+                "accept: application/vnd.hw.item-bits-full-text-temporary-xhtml+xml"
+            ],
+            "profilekey": "fulltext-sgr-book",
+            "originkey": "atomlite",
+            "uritemplate": ""
+        },
+        "selector": null,
+        "selectorAtom": null,
+        "transforms": [
+            {
+                "description": "A transform for providing full text from Springer book sections",
+                "transformkey": "fulltext-xfm",
+                "originkey": "markup-profiles",
+                "processoruri": "/passthrough/transform.xsl",
+                "processor": null
+            }
+        ],
+        "filters": [],
+        "transformProps": [],
+        "outputProps": [],
+        "profileKey": "fulltext-sgr-book"
+    },
+    {
+        "profile": {
+            "id": "metahead",
+            "label": "Default production for html/head/meta elements",
+            "description": "Generates a single HTML head containing a sequence of meta that deliver the content metadata to the crawlers of the world like Bing, Google, and Google Scholar.  Both HTML5 and XHTML formats for the response are supported.",
+            "transforms": [
+                "metahead-xfm"
+            ],
+            "filters": null,
+            "profilekey": "article:html:head:meta",
+            "cachettl": 86400
+        },
+        "profileData": null,
+        "profileSource": {
+            "headers": [
+                "accept: application/atom+xml; type=entry"
+            ],
+            "profilekey": "article:html:head:meta",
+            "originkey": "atom",
+            "uritemplate": "/{src}?with-variant=yes&variant-role=http://schema.highwire.org/variant/source"
+        },
+        "selector": null,
+        "selectorAtom": null,
+        "transforms": [
+            {
+                "description": "Generate metadata for crawlers",
+                "transformkey": "metahead-xfm",
+                "originkey": "xml-tech",
+                "processoruri": "/publishing/article/convert.nlm-htmlmeta.xsl",
+                "processor": null
+            }
+        ],
+        "filters": [],
+        "transformProps": [],
+        "outputProps": [],
+        "profileKey": "article:html:head:meta"
+    }
+]

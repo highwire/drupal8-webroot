@@ -1,0 +1,29 @@
+language: php
+
+branches:
+  # Only test the master branch and SemVer tags.
+  only:
+    - master
+    - /^[[:digit:]]+\.[[:digit:]]+\.[[:digit:]]+.*$/
+
+matrix:
+  fast_finish: true
+  include:
+  - php: 7.0.33
+  - php: 7.3
+
+sudo: false
+
+git:
+  depth: 10000
+
+before_install:
+  - phpenv config-rm xdebug.ini
+  - composer --verbose self-update
+  - composer --version
+
+install:
+  - composer install
+
+script:
+  - composer code:test

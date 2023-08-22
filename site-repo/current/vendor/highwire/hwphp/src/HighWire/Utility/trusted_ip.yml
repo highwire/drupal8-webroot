@@ -1,0 +1,17 @@
+trusted_ip:
+  - 171.66.120.0/21   # Stanford current/old public range.
+  - 172.26.120.0/24   # Stanford current/old private range.
+  - 171.67.112.0/20   # Stanford new public range
+  - 172.27.112.0/24   # Stanford new private range.
+  - 171.66.232.0/23   # Stanford TBH public range.
+  - 104.232.16.0/20   # Non-Stanford Public Range.
+  - 10.220.0.0/16     # Non-Stanford Private Range.
+  - 10.230.0.0/16     # Datacenter range.
+  - 50.225.193.99/32  # Los Gatos HighWire office.
+  - 10.101.0.0/16     # Alternate HighWire office.
+  - 10.102.0.0/16     # Belfast HighWire office.
+  - 10.103.0.0/16     # Brighton HighWire office.
+  - 78.32.246.130/32  # Belfast HighWire office's Public IP.
+  - 172.16.0.0/12     # RFC Private address are all allowed
+  - 50.209.134.177/28 # New los gatos office.
+  - 10.240.0.0/16     # Bunker Datacenter Range

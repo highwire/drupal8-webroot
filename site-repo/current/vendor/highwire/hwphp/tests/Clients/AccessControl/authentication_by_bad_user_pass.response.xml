@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ac:runtime-response xmlns:ac="http://schema.highwire.org/Access"
+    xmlns:ec="http://schema.highwire.org/E-Commerce">
+    <ac:authentication>
+        <ac:identity runtime-id="urn:ac.highwire.org:guest:identity" type="guest">
+            <ac:privilege runtime-id="urn:ac.highwire.org:guest:privilege" type="privilege-set"
+                privilege-set="GUEST"/>
+            <ac:credentials method="guest"/>
+        </ac:identity>
+        <ac:error name="login-error" module="username-password">
+            <ac:text>Invalid password for username: tolga1</ac:text>
+        </ac:error>
+    </ac:authentication>
+    <ac:http-response/>
+</ac:runtime-response>

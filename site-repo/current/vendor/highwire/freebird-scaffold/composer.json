@@ -1,0 +1,36 @@
+{
+  "name": "highwire/freebird-scaffold",
+  "description": "Composer Plugin for automatically calling freebird scripts.",
+  "type": "project",
+  "require": {
+    "php": ">=5.4.5",
+    "composer-plugin-api": "^1.0.0",
+    "symfony/yaml": "^3.4",
+    "symfony/filesystem": "^3.4",
+    "vlucas/phpdotenv": "^4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "FreebirdComposer\\": "src/",
+      "FreebirdComposer\\Tests\\": "tests/src/"
+    }
+  },
+  "scripts": {
+    "code:check": "phpcs --standard=PSR2 -n src",
+    "code:fix": "phpcbf --standard=PSR2 -n src",
+    "code:unit": "phpunit --colors=always",
+    "code:lint": [
+      "find src -name '*.php' -print0 | xargs -0 -n1 php -l"
+    ],
+    "code:test": [
+      "@code:lint",
+      "@code:unit"
+    ]
+  },
+  "require-dev": {
+    "composer/composer": "dev-master",
+    "g1a/composer-test-scenarios": "^2.1.0",
+    "phpunit/phpunit": "^6",
+    "squizlabs/php_codesniffer": "^2.8"
+  }
+}

@@ -1,0 +1,26 @@
+language: php
+
+matrix:
+ fast_finish: true
+ include:
+  - php: 7.0.33
+  - php: 7.3
+
+sudo: false
+
+git:
+ depth: 10000
+
+before_install:
+ - composer --verbose self-update
+ - composer --version
+
+install:
+ - composer install
+
+script:
+ - composer code:test
+
+after_script:
+ - wget https://scrutinizer-ci.com/ocular.phar
+ - php ocular.phar code-coverage:upload --access-token="$SCRUTINIZER_ACCESS" --revision="$TRAVIS_COMMIT" --format="php-clover" coverage.clover

@@ -1,0 +1,10 @@
+version: '2'
+services:
+  php:
+    image: highwire/drupal-dev
+    volumes:
+     - ../hwphp:/hwphp
+    environment:
+      - HIGHWIRE_TEST_SERVICES_UNAVAILABLE  # Pass along without modification
+    working_dir: /hwphp
+      

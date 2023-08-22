@@ -1,0 +1,8 @@
+<ac:authenticate-request client-host="171.66.124.6" path="/" protocol="http"
+    server-host="generic.highwire.org" server-port="80" method="GET"
+    xml:base="http://generic.highwire.org/" xmlns:ac="http://schema.highwire.org/Access">
+    <ac:header name="referer">http://generic.highwire.org/current.dtl</ac:header>
+    <ac:cookie name="acceptsCookies">true</ac:cookie>
+    <ac:parameter name="username">tolga1</ac:parameter>
+    <ac:parameter name="code">highwire</ac:parameter>
+</ac:authenticate-request>

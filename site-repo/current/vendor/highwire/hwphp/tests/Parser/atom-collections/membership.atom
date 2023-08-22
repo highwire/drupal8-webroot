@@ -1,0 +1,93 @@
+<atom:feed xml:base="http://atom-collections-dev.highwire.org" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:acs="http://schema.highwire.org/AtomCollection" 
+  xmlns:tax="http://schema.highwire.org/Taxonomy" 
+  xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/">
+  <atom:entry>
+    <atom:id>750717</atom:id>
+    <atom:title>title</atom:title>
+    <atom:link href="http://atom-collections-dev.highwire.org/springer/content/atom?member=/sgrvv/31/6/1021.atom" rel="self"/>
+    <atom:link href="http://atom-collections-dev.highwire.org/springer/content/atom?member=/sgrvv/31/6/1021.atom" rel="edit"/>
+    <atom:created>2017-08-24T18:05:09.00+00:00</atom:created>
+    <atom:updated>2017-08-24T18:05:09.00+00:00</atom:updated>
+    <atom:published>2017-08-24T18:05:08.00+00:00</atom:published>
+    <atom:author>
+      <atom:name>authorcontent</atom:name>
+    </atom:author>
+    <atom:category term="73da1bfd" scheme="subject" label="Marriage and Family Counseling" acs:rank="1" tax:id="1" tax:node_id="73da1bfd" tax:term="Marriage and Family Counseling" tax:depth="3" acs:assigned="2017-08-15T07:00:00.00+00:00">
+      <description 
+        xmlns="http://schema.highwire.org/AtomCollection">
+        <div>Description of the <em>Marriage and Family Counseling</em> node.</div>
+      </description>
+    </atom:category>
+    <atom:category term="91983b69" scheme="subject" label="Policy, Social Justice, and Human Rights" acs:rank="2" tax:id="1" tax:node_id="91983b69" tax:term="Policy, Social Justice, and Human Rights" tax:depth="3" acs:assigned="2017-08-15T07:00:00.00+00:00">
+      <description 
+        xmlns="http://schema.highwire.org/AtomCollection">
+        <div>Description of the 
+          <em>Policy, Social Justice, and Human Rights</em> node.
+        </div>
+      </description>
+    </atom:category>
+    <atom:category term="7b47e5fc" scheme="subject" label="Social and Personality Psychology" acs:rank="3" tax:id="1" tax:node_id="7b47e5fc" tax:term="Social and Personality Psychology" tax:depth="3" acs:assigned="2017-08-15T07:00:00.00+00:00">
+      <description 
+        xmlns="http://schema.highwire.org/AtomCollection">
+        <div>Description of the 
+          <em>Social and Personality Psychology</em> node.
+        </div>
+      </description>
+    </atom:category>
+    <atom:category term="ed671889" scheme="subject" label="Behavioral Sciences" acs:rank="1" tax:id="1" tax:node_id="ed671889" tax:term="Behavioral Sciences" tax:depth="1" acs:assigned="2017-08-15T07:00:00.00+00:00">
+      <description 
+        xmlns="http://schema.highwire.org/AtomCollection">
+        <div>Description of the 
+          <em>Behavioral Sciences</em> node.
+        </div>
+      </description>
+    </atom:category>
+    <atom:category term="702fd6d9" scheme="subject" label="Counseling" acs:rank="1" tax:id="1" tax:node_id="702fd6d9" tax:term="Counseling" tax:depth="2" acs:assigned="2017-08-15T07:00:00.00+00:00">
+      <description 
+        xmlns="http://schema.highwire.org/AtomCollection">
+        <div>Description of the 
+          <em>Counseling</em> node.
+        </div>
+      </description>
+    </atom:category>
+    <atom:category term="07a341a5" scheme="subject" label="Social Work" acs:rank="2" tax:id="1" tax:node_id="07a341a5" tax:term="Social Work" tax:depth="2" acs:assigned="2017-08-15T07:00:00.00+00:00">
+      <description 
+        xmlns="http://schema.highwire.org/AtomCollection">
+        <div>Description of the 
+          <em>Social Work</em> node.
+        </div>
+      </description>
+    </atom:category>
+    <atom:category term="df2987e4" scheme="subject" label="Psychology" acs:rank="3" tax:id="1" tax:node_id="df2987e4" tax:term="Psychology" tax:depth="2" acs:assigned="2017-08-15T07:00:00.00+00:00">
+      <description 
+        xmlns="http://schema.highwire.org/AtomCollection">
+        <div>Description of the 
+          <em>Psychology</em> node.
+        </div>
+      </description>
+    </atom:category>
+    <atom:link c:role="http://schema.highwire.org/AtomCollection" href="http://atom-collections-dev.highwire.org/springer/content/atom?scheme=subject&amp;term=73da1bfd" rel="via" type="application/atom+xml" 
+      xmlns:c="http://scheme.highwire.org/Compound"/>
+    <atom:link c:role="http://schema.highwire.org/AtomCollection" href="http://atom-collections-dev.highwire.org/springer/content/atom?scheme=subject&amp;term=91983b69" rel="via" type="application/atom+xml" 
+      xmlns:c="http://scheme.highwire.org/Compound"/>
+    <atom:link c:role="http://schema.highwire.org/AtomCollection" href="http://atom-collections-dev.highwire.org/springer/content/atom?scheme=subject&amp;term=7b47e5fc" rel="via" type="application/atom+xml" 
+      xmlns:c="http://scheme.highwire.org/Compound"/>
+    <atom:link c:role="http://schema.highwire.org/AtomCollection" href="http://atom-collections-dev.highwire.org/springer/content/atom?scheme=subject&amp;term=ed671889" rel="via" type="application/atom+xml" 
+      xmlns:c="http://scheme.highwire.org/Compound"/>
+    <atom:link c:role="http://schema.highwire.org/AtomCollection" href="http://atom-collections-dev.highwire.org/springer/content/atom?scheme=subject&amp;term=702fd6d9" rel="via" type="application/atom+xml" 
+      xmlns:c="http://scheme.highwire.org/Compound"/>
+    <atom:link c:role="http://schema.highwire.org/AtomCollection" href="http://atom-collections-dev.highwire.org/springer/content/atom?scheme=subject&amp;term=07a341a5" rel="via" type="application/atom+xml" 
+      xmlns:c="http://scheme.highwire.org/Compound"/>
+    <atom:link c:role="http://schema.highwire.org/AtomCollection" href="http://atom-collections-dev.highwire.org/springer/content/atom?scheme=subject&amp;term=df2987e4" rel="via" type="application/atom+xml" 
+      xmlns:c="http://scheme.highwire.org/Compound"/>
+    <atom:link href="/sgrvv/31/6/1021.atom" rel="proxy"/>
+  </atom:entry>
+  <atom:id>member-feed-/springer/content/atom?&amp;qp:member=/sgrvv/31/6/1021.atom&amp;</atom:id>
+  <atom:title>member feed for collection:496 uri:/sgrvv/31/6/1021.atom</atom:title>
+  <atom:updated>2017-10-20T19:05:54.708+00:00</atom:updated>
+  <atom:author>
+    <atom:name>ACS</atom:name>
+  </atom:author>
+</atom:feed>

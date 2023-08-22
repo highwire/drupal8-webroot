@@ -1,0 +1,19 @@
+{
+  "organizationProfiles": [
+    {
+      "identifierType": "IP_RANGE",
+      "profileName": "UC Berkeley",
+      "profileId": 6
+    }
+  ],
+  "individualProfile": {
+    "identifierType": "USER_PASS",
+    "profileName": "Sunil Mehta (Individual)",
+    "profileId": 12
+  },
+  "publisherProfile": {
+    "profileId": 2,
+    "profileName": "Springer Publications (PUBLISHER)"
+  },
+  "username": "b00bd66b-c6ae-461f-bc93-9486ff67f3a6"
+}
