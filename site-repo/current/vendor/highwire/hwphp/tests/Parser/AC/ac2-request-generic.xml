@@ -1,9 +1,0 @@
-<ac:runtime-request xmlns:ac="http://schema.highwire.org/Access" xmlns:gen="http://schema.highwire.org/Site/Generator">
-  <ac:authenticate-request xml:base="http://generic.highwire.org" path="/" client-host="171.66.124.6" protocol="http" server-host="generic.highwire.org" server-port="80" method="GET">
-    <ac:header name="referer">http://generic.highwire.org/current.dtl</ac:header>
-    <ac:cookie name="acceptsCookies">true</ac:cookie>
-    <ac:parameter name="username">tolga1</ac:parameter>
-    <ac:parameter name="code">highwire</ac:parameter>
-  </ac:authenticate-request>
-  <ac:authorize id="496ab4df-ab3d-3ce5-2547-05824ae8f39c" target="resource" uri="/ddssh/34/4/523.atom" view="full" />
-</ac:runtime-request>

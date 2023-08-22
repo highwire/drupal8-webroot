@@ -1,5 +1,0 @@
-<ac:runtime-request xmlns:ac="http://schema.highwire.org/Access" xmlns:gen="http://schema.highwire.org/Site/Generator">
-  <ac:authenticate-ids>
-    <ac:identifier admin="true" login="guest"></ac:identifier>
-  </ac:authenticate-ids>
-</ac:runtime-request>
