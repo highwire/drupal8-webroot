@@ -178,16 +178,6 @@ htmlpdf:
   timeout: 5
   class: HighWire\Clients\HTMLPDF\HTMLPDF
   cache-ttl: 0
-pdf-stamper:
-  name: PDF Stamper Service
-  apiVersion: 1.0
-  environmentBaseUrls:
-    production: http://pdf.highwire.org/stamped/
-    development: http://pdf.highwire.org/stamped/
-  description: Get stamped and paged PDF files
-  timeout: 5
-  class: HighWire\Clients\PDFStamper\PDFStamper
-  cache-ttl: 0
 binary:
   name: Binary Service
   apiVersion: 1.0
@@ -454,13 +444,3 @@ three-play-plugin:
   description:
   timeout: 5
   class: HighWire\Clients\ThreePlayPlugin\ThreePlayPlugin
-ecommerce-transactions:
-  name: Ecommerce Service
-  apiVersion: 1.0.6
-  environmentBaseUrls:
-    production: http://ecommerceadm-svc.highwire.org/
-    development: http://ecommerceadm-svc-dev.highwire.org/
-  description: Get transactions data from foxycart.
-  timeout: 5
-  class: HighWire\Clients\Ecommerce\Transactions
-  cache-ttl: 0
