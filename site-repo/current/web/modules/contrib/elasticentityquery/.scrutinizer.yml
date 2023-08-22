@@ -1,0 +1,22 @@
+filter:
+    excluded_paths:
+        - tests/*
+        - vendor/*
+
+build:
+    environment:
+        elasticsearch: "5"
+    tests:
+        before:
+            - cd && git clone https://github.com/drupal/drupal
+            - ln -s ../../build drupal/modules/elasticentityquery
+            - cd drupal
+            - composer require elasticsearch/elasticsearch
+            - composer install
+            - cd core
+        override:
+            -
+                command: ../vendor/bin/phpunit --group=elasticentityquery --testsuite=unit --coverage-clover=$HOME/build/phpunit.report.coverage.xml
+                coverage:
+                    file: phpunit.report.coverage.xml
+                    format: clover

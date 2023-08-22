@@ -1,0 +1,26 @@
+{
+  "name": "phayes/elasticentityquery",
+  "description": "Implements EntityQuery using an elasticsearch backend",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/examples",
+  "license": "GPL-2.0+",
+  "repositories": [
+    {
+      "type": "composer",
+      "url":  "https://packages.drupal.org/8"
+    }
+  ],
+  "require": {
+    "elasticsearch/elasticsearch": "^5.0"
+  },
+  "authors": [
+    {
+      "name": "Patrick Hayes",
+      "homepage": "https://github.com/phayes"
+    }
+  ],
+  "require-dev": {
+    "drupal/core": "^8.3",
+    "phpunit/phpunit" : ">=4.8.28 <5"
+  }
+}
